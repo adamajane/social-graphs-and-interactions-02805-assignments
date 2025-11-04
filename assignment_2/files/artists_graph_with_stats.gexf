@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-09-29">
+  <meta lastmodifieddate="2025-11-02">
     <creator>NetworkX 3.4.2</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -11,6 +11,7 @@
       <attribute id="3" title="out_degree" type="long" />
       <attribute id="4" title="pagerank" type="double" />
       <attribute id="5" title="betweenness" type="double" />
+      <attribute id="6" title="length_of_content" type="long" />
     </attributes>
     <nodes>
       <node id="10 Years (band)" label="10 Years (band)">
@@ -21,6 +22,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0006904376855434414" />
           <attvalue for="5" value="0.0008262812266717574" />
+          <attvalue for="6" value="10652" />
         </attvalues>
       </node>
       <node id="10cc" label="10cc">
@@ -31,6 +33,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0008949776582407627" />
           <attvalue for="5" value="0.0019230519249547582" />
+          <attvalue for="6" value="42105" />
         </attvalues>
       </node>
       <node id="3 Doors Down" label="3 Doors Down">
@@ -41,6 +44,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0011296868122091294" />
           <attvalue for="5" value="0.0016614256835436859" />
+          <attvalue for="6" value="19134" />
         </attvalues>
       </node>
       <node id="311 (band)" label="311 (band)">
@@ -51,6 +55,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0009302137860057643" />
           <attvalue for="5" value="0.002415147774098067" />
+          <attvalue for="6" value="19255" />
         </attvalues>
       </node>
       <node id="38 Special (band)" label="38 Special (band)">
@@ -61,6 +66,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0012224274953465094" />
           <attvalue for="5" value="0.0014442545567318827" />
+          <attvalue for="6" value="11463" />
         </attvalues>
       </node>
       <node id="A Perfect Circle" label="A Perfect Circle">
@@ -71,6 +77,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0009067627586419473" />
           <attvalue for="5" value="0.000722299983712489" />
+          <attvalue for="6" value="30099" />
         </attvalues>
       </node>
       <node id="ABBA" label="ABBA">
@@ -81,6 +88,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0019363039558162355" />
           <attvalue for="5" value="0.0005665794112311074" />
+          <attvalue for="6" value="80988" />
         </attvalues>
       </node>
       <node id="AC/DC" label="AC/DC">
@@ -91,6 +99,7 @@
           <attvalue for="3" value="29" />
           <attvalue for="4" value="0.0034281488059591937" />
           <attvalue for="5" value="0.007388839453640309" />
+          <attvalue for="6" value="54370" />
         </attvalues>
       </node>
       <node id="AFI (band)" label="AFI (band)">
@@ -101,6 +110,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0007148057454610551" />
           <attvalue for="5" value="0.0003646767635689736" />
+          <attvalue for="6" value="19066" />
         </attvalues>
       </node>
       <node id="Accept (band)" label="Accept (band)">
@@ -111,6 +121,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0016934922614497546" />
           <attvalue for="5" value="0.0008977451000185414" />
+          <attvalue for="6" value="19712" />
         </attvalues>
       </node>
       <node id="Adam Ant" label="Adam Ant">
@@ -121,6 +132,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0007656257369279761" />
           <attvalue for="5" value="0.0005598376172878701" />
+          <attvalue for="6" value="40658" />
         </attvalues>
       </node>
       <node id="Aerosmith" label="Aerosmith">
@@ -131,6 +143,7 @@
           <attvalue for="3" value="38" />
           <attvalue for="4" value="0.005430672056053297" />
           <attvalue for="5" value="0.021064195199508026" />
+          <attvalue for="6" value="76950" />
         </attvalues>
       </node>
       <node id="Air Supply" label="Air Supply">
@@ -141,6 +154,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0004248053069005906" />
           <attvalue for="5" value="6.832504197969643e-05" />
+          <attvalue for="6" value="22582" />
         </attvalues>
       </node>
       <node id="Alanis Morissette" label="Alanis Morissette">
@@ -151,6 +165,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.001857671778526753" />
           <attvalue for="5" value="0.005635116069276399" />
+          <attvalue for="6" value="39882" />
         </attvalues>
       </node>
       <node id="Alice Cooper" label="Alice Cooper">
@@ -161,6 +176,7 @@
           <attvalue for="3" value="40" />
           <attvalue for="4" value="0.006084588732681728" />
           <attvalue for="5" value="0.023875900117684756" />
+          <attvalue for="6" value="64386" />
         </attvalues>
       </node>
       <node id="Alice Cooper (band)" label="Alice Cooper (band)">
@@ -171,6 +187,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.0005592833585293242" />
           <attvalue for="5" value="0.0003992480722906488" />
+          <attvalue for="6" value="17569" />
         </attvalues>
       </node>
       <node id="Alice in Chains" label="Alice in Chains">
@@ -181,6 +198,7 @@
           <attvalue for="3" value="74" />
           <attvalue for="4" value="0.005100913710616604" />
           <attvalue for="5" value="0.036635538056876055" />
+          <attvalue for="6" value="64189" />
         </attvalues>
       </node>
       <node id="Alter Bridge" label="Alter Bridge">
@@ -191,6 +209,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0015782192371996654" />
           <attvalue for="5" value="0.004970123595019815" />
+          <attvalue for="6" value="24515" />
         </attvalues>
       </node>
       <node id="Ambrosia (band)" label="Ambrosia (band)">
@@ -201,6 +220,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.00048281166110324006" />
           <attvalue for="5" value="0.0004908328087869678" />
+          <attvalue for="6" value="13521" />
         </attvalues>
       </node>
       <node id="America (band)" label="America (band)">
@@ -211,6 +231,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0008536093904340221" />
           <attvalue for="5" value="0.0017479937857013104" />
+          <attvalue for="6" value="35308" />
         </attvalues>
       </node>
       <node id="Anthrax (American band)" label="Anthrax (American band)">
@@ -221,6 +242,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.003039446422120081" />
           <attvalue for="5" value="0.005506197630275798" />
+          <attvalue for="6" value="34106" />
         </attvalues>
       </node>
       <node id="April Wine" label="April Wine">
@@ -231,6 +253,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.0005359227275146522" />
           <attvalue for="5" value="0.0018867653114224448" />
+          <attvalue for="6" value="16104" />
         </attvalues>
       </node>
       <node id="Arcade Fire" label="Arcade Fire">
@@ -241,6 +264,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0015272893540687342" />
           <attvalue for="5" value="0.0005612766188440373" />
+          <attvalue for="6" value="36980" />
         </attvalues>
       </node>
       <node id="Arctic Monkeys" label="Arctic Monkeys">
@@ -251,6 +275,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0015861500955181352" />
           <attvalue for="5" value="0.007873960576256923" />
+          <attvalue for="6" value="42722" />
         </attvalues>
       </node>
       <node id="Asia (band)" label="Asia (band)">
@@ -261,6 +286,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0008907927518388332" />
           <attvalue for="5" value="0.0010090050318184486" />
+          <attvalue for="6" value="36444" />
         </attvalues>
       </node>
       <node id="Audioslave" label="Audioslave">
@@ -271,6 +297,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0013435742959368394" />
           <attvalue for="5" value="0.0008254159105214188" />
+          <attvalue for="6" value="30002" />
         </attvalues>
       </node>
       <node id="Avenged Sevenfold" label="Avenged Sevenfold">
@@ -281,6 +308,7 @@
           <attvalue for="3" value="36" />
           <attvalue for="4" value="0.001991399770021496" />
           <attvalue for="5" value="0.007936077166859757" />
+          <attvalue for="6" value="32127" />
         </attvalues>
       </node>
       <node id="Avril Lavigne" label="Avril Lavigne">
@@ -291,6 +319,7 @@
           <attvalue for="3" value="31" />
           <attvalue for="4" value="0.0012771960359316695" />
           <attvalue for="5" value="0.009115502772593717" />
+          <attvalue for="6" value="49954" />
         </attvalues>
       </node>
       <node id="Awolnation" label="Awolnation">
@@ -301,6 +330,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.00035206836310243286" />
           <attvalue for="5" value="0.00012400661396985783" />
+          <attvalue for="6" value="17892" />
         </attvalues>
       </node>
       <node id="Bachman–Turner Overdrive" label="Bachman–Turner Overdrive">
@@ -311,6 +341,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0006213556987753148" />
           <attvalue for="5" value="0.0024536913792427774" />
+          <attvalue for="6" value="36961" />
         </attvalues>
       </node>
       <node id="Bad Company" label="Bad Company">
@@ -321,6 +352,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0021357359169258076" />
           <attvalue for="5" value="0.004094120133834462" />
+          <attvalue for="6" value="21256" />
         </attvalues>
       </node>
       <node id="Badfinger" label="Badfinger">
@@ -331,6 +363,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.001113073145829157" />
           <attvalue for="5" value="0.00044124087643647317" />
+          <attvalue for="6" value="41314" />
         </attvalues>
       </node>
       <node id="Barenaked Ladies" label="Barenaked Ladies">
@@ -341,6 +374,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0010008339898621486" />
           <attvalue for="5" value="0.00252998974947847" />
+          <attvalue for="6" value="28233" />
         </attvalues>
       </node>
       <node id="Bay City Rollers" label="Bay City Rollers">
@@ -351,6 +385,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0005714394982130962" />
           <attvalue for="5" value="0.0014269371638785484" />
+          <attvalue for="6" value="31414" />
         </attvalues>
       </node>
       <node id="Beastie Boys" label="Beastie Boys">
@@ -361,6 +396,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0023161907615153947" />
           <attvalue for="5" value="0.004162134788181031" />
+          <attvalue for="6" value="35894" />
         </attvalues>
       </node>
       <node id="Beck" label="Beck">
@@ -371,6 +407,7 @@
           <attvalue for="3" value="26" />
           <attvalue for="4" value="0.0030358530444259363" />
           <attvalue for="5" value="0.012921195553785243" />
+          <attvalue for="6" value="43490" />
         </attvalues>
       </node>
       <node id="Bee Gees" label="Bee Gees">
@@ -381,6 +418,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.0034996819625888313" />
           <attvalue for="5" value="0.003842207581098556" />
+          <attvalue for="6" value="55483" />
         </attvalues>
       </node>
       <node id="Ben Folds Five" label="Ben Folds Five">
@@ -391,6 +429,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="6405" />
         </attvalues>
       </node>
       <node id="Bill Haley &amp; His Comets" label="Bill Haley &amp; His Comets">
@@ -401,6 +440,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0014262389151966873" />
           <attvalue for="5" value="0.00022699601512782925" />
+          <attvalue for="6" value="39016" />
         </attvalues>
       </node>
       <node id="Billy Idol" label="Billy Idol">
@@ -411,6 +451,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0015276863573322154" />
           <attvalue for="5" value="0.005585684966877267" />
+          <attvalue for="6" value="24030" />
         </attvalues>
       </node>
       <node id="Billy Joel" label="Billy Joel">
@@ -421,6 +462,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0038389384772805064" />
           <attvalue for="5" value="0.0038990217932201227" />
+          <attvalue for="6" value="63537" />
         </attvalues>
       </node>
       <node id="Billy Squier" label="Billy Squier">
@@ -431,6 +473,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0007933076312945913" />
           <attvalue for="5" value="0.0013088702845674217" />
+          <attvalue for="6" value="17263" />
         </attvalues>
       </node>
       <node id="Billy Talent" label="Billy Talent">
@@ -441,6 +484,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.000448785994928949" />
           <attvalue for="5" value="0.0003538666882581548" />
+          <attvalue for="6" value="21805" />
         </attvalues>
       </node>
       <node id="Black Sabbath" label="Black Sabbath">
@@ -451,6 +495,7 @@
           <attvalue for="3" value="60" />
           <attvalue for="4" value="0.008423670277375297" />
           <attvalue for="5" value="0.031947885240146516" />
+          <attvalue for="6" value="86169" />
         </attvalues>
       </node>
       <node id="Black Stone Cherry" label="Black Stone Cherry">
@@ -461,6 +506,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0005615985191681214" />
           <attvalue for="5" value="0.0041244178221345774" />
+          <attvalue for="6" value="8098" />
         </attvalues>
       </node>
       <node id="Black Veil Brides" label="Black Veil Brides">
@@ -471,6 +517,7 @@
           <attvalue for="3" value="26" />
           <attvalue for="4" value="0.0005198272259513992" />
           <attvalue for="5" value="0.0006942681872860227" />
+          <attvalue for="6" value="20825" />
         </attvalues>
       </node>
       <node id="Blink-182" label="Blink-182">
@@ -481,6 +528,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.0018979578294119554" />
           <attvalue for="5" value="0.005847795175749783" />
+          <attvalue for="6" value="38845" />
         </attvalues>
       </node>
       <node id="Blondie (band)" label="Blondie (band)">
@@ -491,6 +539,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0018800515287014873" />
           <attvalue for="5" value="0.0037645696511590027" />
+          <attvalue for="6" value="32469" />
         </attvalues>
       </node>
       <node id="Bloodhound Gang" label="Bloodhound Gang">
@@ -501,6 +550,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.00035770871743805963" />
           <attvalue for="5" value="9.466436667590386e-06" />
+          <attvalue for="6" value="13581" />
         </attvalues>
       </node>
       <node id="Blue October" label="Blue October">
@@ -511,6 +561,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="23414" />
         </attvalues>
       </node>
       <node id="Blue Öyster Cult" label="Blue Öyster Cult">
@@ -521,6 +572,7 @@
           <attvalue for="3" value="26" />
           <attvalue for="4" value="0.001321957031410215" />
           <attvalue for="5" value="0.002396497994991841" />
+          <attvalue for="6" value="33145" />
         </attvalues>
       </node>
       <node id="Blues Traveler" label="Blues Traveler">
@@ -531,6 +583,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.00153047362029084" />
           <attvalue for="5" value="0.00024294126386054376" />
+          <attvalue for="6" value="16191" />
         </attvalues>
       </node>
       <node id="Blur (band)" label="Blur (band)">
@@ -541,6 +594,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0012092149089344816" />
           <attvalue for="5" value="0.0011187864695921296" />
+          <attvalue for="6" value="28474" />
         </attvalues>
       </node>
       <node id="Bo Diddley" label="Bo Diddley">
@@ -551,6 +605,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.005657003632300211" />
           <attvalue for="5" value="0.0037381650802226747" />
+          <attvalue for="6" value="28949" />
         </attvalues>
       </node>
       <node id="Bob Dylan" label="Bob Dylan">
@@ -561,6 +616,7 @@
           <attvalue for="3" value="30" />
           <attvalue for="4" value="0.017608320328744008" />
           <attvalue for="5" value="0.029398527152842514" />
+          <attvalue for="6" value="96682" />
         </attvalues>
       </node>
       <node id="Bob Seger" label="Bob Seger">
@@ -571,6 +627,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.003411526070174164" />
           <attvalue for="5" value="0.004324239472172115" />
+          <attvalue for="6" value="27638" />
         </attvalues>
       </node>
       <node id="Bon Jovi" label="Bon Jovi">
@@ -581,6 +638,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0022777080346055426" />
           <attvalue for="5" value="0.0028952598311143165" />
+          <attvalue for="6" value="36883" />
         </attvalues>
       </node>
       <node id="Boston (band)" label="Boston (band)">
@@ -591,6 +649,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0008834246824329592" />
           <attvalue for="5" value="0.0004344158434676511" />
+          <attvalue for="6" value="25898" />
         </attvalues>
       </node>
       <node id="Bowling for Soup" label="Bowling for Soup">
@@ -601,6 +660,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0005617097150088459" />
           <attvalue for="5" value="0.002413216348686876" />
+          <attvalue for="6" value="31397" />
         </attvalues>
       </node>
       <node id="Boys Like Girls" label="Boys Like Girls">
@@ -611,6 +671,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0005178344737482736" />
           <attvalue for="5" value="0.0005376979076660827" />
+          <attvalue for="6" value="17120" />
         </attvalues>
       </node>
       <node id="Bread (band)" label="Bread (band)">
@@ -621,6 +682,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="10589" />
         </attvalues>
       </node>
       <node id="Breaking Benjamin" label="Breaking Benjamin">
@@ -631,6 +693,7 @@
           <attvalue for="3" value="33" />
           <attvalue for="4" value="0.0013478848193081328" />
           <attvalue for="5" value="0.006022460875873209" />
+          <attvalue for="6" value="35111" />
         </attvalues>
       </node>
       <node id="Bring Me the Horizon" label="Bring Me the Horizon">
@@ -641,6 +704,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0006351803749775941" />
           <attvalue for="5" value="0.001293762357147814" />
+          <attvalue for="6" value="36483" />
         </attvalues>
       </node>
       <node id="Bruce Springsteen" label="Bruce Springsteen">
@@ -651,6 +715,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.009119392730093661" />
           <attvalue for="5" value="0.014313630789575784" />
+          <attvalue for="6" value="65008" />
         </attvalues>
       </node>
       <node id="Bryan Adams" label="Bryan Adams">
@@ -661,6 +726,7 @@
           <attvalue for="3" value="51" />
           <attvalue for="4" value="0.0017712904750750722" />
           <attvalue for="5" value="0.010576731607332877" />
+          <attvalue for="6" value="63518" />
         </attvalues>
       </node>
       <node id="Bryan Ferry" label="Bryan Ferry">
@@ -671,6 +737,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0015097284803709463" />
           <attvalue for="5" value="0.00026180812154335376" />
+          <attvalue for="6" value="30853" />
         </attvalues>
       </node>
       <node id="Buckcherry" label="Buckcherry">
@@ -681,6 +748,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0008253356586521268" />
           <attvalue for="5" value="0.0004959986957968748" />
+          <attvalue for="6" value="12063" />
         </attvalues>
       </node>
       <node id="Buddy Holly" label="Buddy Holly">
@@ -691,6 +759,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.006997279214569706" />
           <attvalue for="5" value="0.008304855375154643" />
+          <attvalue for="6" value="44927" />
         </attvalues>
       </node>
       <node id="Bullet for My Valentine" label="Bullet for My Valentine">
@@ -701,6 +770,7 @@
           <attvalue for="3" value="28" />
           <attvalue for="4" value="0.0010788713942369293" />
           <attvalue for="5" value="0.0010906753619698032" />
+          <attvalue for="6" value="24894" />
         </attvalues>
       </node>
       <node id="Bush (British band)" label="Bush (British band)">
@@ -711,6 +781,7 @@
           <attvalue for="3" value="26" />
           <attvalue for="4" value="0.001222225320235196" />
           <attvalue for="5" value="0.0035592171590076494" />
+          <attvalue for="6" value="17926" />
         </attvalues>
       </node>
       <node id="Cage the Elephant" label="Cage the Elephant">
@@ -721,6 +792,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.0005934257437335841" />
           <attvalue for="5" value="0.0027445093791681635" />
+          <attvalue for="6" value="23849" />
         </attvalues>
       </node>
       <node id="Cake (band)" label="Cake (band)">
@@ -731,6 +803,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0007095414955290394" />
           <attvalue for="5" value="0.0002560227115158134" />
+          <attvalue for="6" value="22804" />
         </attvalues>
       </node>
       <node id="Canned Heat" label="Canned Heat">
@@ -741,6 +814,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0010449163231440479" />
           <attvalue for="5" value="0.0009182317142222961" />
+          <attvalue for="6" value="31208" />
         </attvalues>
       </node>
       <node id="Catfish and the Bottlemen" label="Catfish and the Bottlemen">
@@ -751,6 +825,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0005148373971703432" />
           <attvalue for="5" value="0.00015276269109562306" />
+          <attvalue for="6" value="14414" />
         </attvalues>
       </node>
       <node id="Charlie Daniels" label="Charlie Daniels">
@@ -761,6 +836,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0008119444530440754" />
           <attvalue for="5" value="0.0008790277474011115" />
+          <attvalue for="6" value="16083" />
         </attvalues>
       </node>
       <node id="Cheap Trick" label="Cheap Trick">
@@ -771,6 +847,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0030285595623074143" />
           <attvalue for="5" value="0.003625208050176125" />
+          <attvalue for="6" value="16103" />
         </attvalues>
       </node>
       <node id="Chevelle (band)" label="Chevelle (band)">
@@ -781,6 +858,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0008450897386971431" />
           <attvalue for="5" value="0.0006176494604149477" />
+          <attvalue for="6" value="21519" />
         </attvalues>
       </node>
       <node id="Chicago (band)" label="Chicago (band)">
@@ -791,6 +869,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.0015697373688331072" />
           <attvalue for="5" value="0.003735631656525768" />
+          <attvalue for="6" value="55252" />
         </attvalues>
       </node>
       <node id="Chris Cornell" label="Chris Cornell">
@@ -801,6 +880,7 @@
           <attvalue for="3" value="30" />
           <attvalue for="4" value="0.0022465823339879684" />
           <attvalue for="5" value="0.006673550207680329" />
+          <attvalue for="6" value="74040" />
         </attvalues>
       </node>
       <node id="Chris Rea" label="Chris Rea">
@@ -811,6 +891,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0003985976179705677" />
           <attvalue for="5" value="0.00016694109516175653" />
+          <attvalue for="6" value="24902" />
         </attvalues>
       </node>
       <node id="Chris de Burgh" label="Chris de Burgh">
@@ -821,6 +902,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="11924" />
         </attvalues>
       </node>
       <node id="Christopher Cross" label="Christopher Cross">
@@ -831,6 +913,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0005466863533203437" />
           <attvalue for="5" value="0.0005335319240042905" />
+          <attvalue for="6" value="10973" />
         </attvalues>
       </node>
       <node id="Chubby Checker" label="Chubby Checker">
@@ -841,6 +924,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0009448776968247515" />
           <attvalue for="5" value="8.092993991183769e-05" />
+          <attvalue for="6" value="11801" />
         </attvalues>
       </node>
       <node id="Chuck Berry" label="Chuck Berry">
@@ -851,6 +935,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.010313301013364907" />
           <attvalue for="5" value="0.006696573724335218" />
+          <attvalue for="6" value="27453" />
         </attvalues>
       </node>
       <node id="Cinderella (band)" label="Cinderella (band)">
@@ -861,6 +946,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0010680139644960642" />
           <attvalue for="5" value="0.0006698985286690832" />
+          <attvalue for="6" value="11103" />
         </attvalues>
       </node>
       <node id="Coheed and Cambria" label="Coheed and Cambria">
@@ -871,6 +957,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.000567165189572308" />
           <attvalue for="5" value="0.0004038600353271182" />
+          <attvalue for="6" value="23366" />
         </attvalues>
       </node>
       <node id="Cold Chisel" label="Cold Chisel">
@@ -881,6 +968,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0006805140889959477" />
           <attvalue for="5" value="0.0015462307679063308" />
+          <attvalue for="6" value="28174" />
         </attvalues>
       </node>
       <node id="Coldplay" label="Coldplay">
@@ -891,6 +979,7 @@
           <attvalue for="3" value="25" />
           <attvalue for="4" value="0.0020417272128027395" />
           <attvalue for="5" value="0.0055074938736459945" />
+          <attvalue for="6" value="72924" />
         </attvalues>
       </node>
       <node id="Collective Soul" label="Collective Soul">
@@ -901,6 +990,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0009392252949409493" />
           <attvalue for="5" value="0.0021804012745706984" />
+          <attvalue for="6" value="18988" />
         </attvalues>
       </node>
       <node id="Counting Crows" label="Counting Crows">
@@ -911,6 +1001,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0015143108455520494" />
           <attvalue for="5" value="0.002443773441567836" />
+          <attvalue for="6" value="23003" />
         </attvalues>
       </node>
       <node id="Crash Test Dummies" label="Crash Test Dummies">
@@ -921,6 +1012,7 @@
           <attvalue for="3" value="0" />
           <attvalue for="4" value="0.0005051693966410901" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="16735" />
         </attvalues>
       </node>
       <node id="Cream (band)" label="Cream (band)">
@@ -931,6 +1023,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.004893305835871503" />
           <attvalue for="5" value="0.0017572716674114502" />
+          <attvalue for="6" value="22935" />
         </attvalues>
       </node>
       <node id="Creed (band)" label="Creed (band)">
@@ -941,6 +1034,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0016615621187343098" />
           <attvalue for="5" value="0.00390947188976893" />
+          <attvalue for="6" value="23514" />
         </attvalues>
       </node>
       <node id="Creedence Clearwater Revival" label="Creedence Clearwater Revival">
@@ -951,6 +1045,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0020643233451979274" />
           <attvalue for="5" value="0.001016043753185618" />
+          <attvalue for="6" value="32993" />
         </attvalues>
       </node>
       <node id="Crosby, Stills, Nash &amp; Young" label="Crosby, Stills, Nash &amp; Young">
@@ -961,6 +1056,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0019476207779890484" />
           <attvalue for="5" value="0.002527505019834471" />
+          <attvalue for="6" value="46194" />
         </attvalues>
       </node>
       <node id="Crowded House" label="Crowded House">
@@ -971,6 +1067,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0008985797509052931" />
           <attvalue for="5" value="0.001568005435345193" />
+          <attvalue for="6" value="29560" />
         </attvalues>
       </node>
       <node id="Dallas Green (musician)" label="Dallas Green (musician)">
@@ -981,6 +1078,7 @@
           <attvalue for="3" value="0" />
           <attvalue for="4" value="0.00042533535587136785" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="15537" />
         </attvalues>
       </node>
       <node id="Damn Yankees (band)" label="Damn Yankees (band)">
@@ -991,6 +1089,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.000835011453969939" />
           <attvalue for="5" value="0.00011591220088213703" />
+          <attvalue for="6" value="7300" />
         </attvalues>
       </node>
       <node id="Dan Fogelberg" label="Dan Fogelberg">
@@ -1001,6 +1100,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0007836447505047385" />
           <attvalue for="5" value="0.000399021431254971" />
+          <attvalue for="6" value="10301" />
         </attvalues>
       </node>
       <node id="Dashboard Confessional" label="Dashboard Confessional">
@@ -1011,6 +1111,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0006951740628451432" />
           <attvalue for="5" value="0.003324864872469204" />
+          <attvalue for="6" value="11721" />
         </attvalues>
       </node>
       <node id="Daughtry (band)" label="Daughtry (band)">
@@ -1021,6 +1122,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0006803519634259385" />
           <attvalue for="5" value="0.0017669269630685392" />
+          <attvalue for="6" value="19765" />
         </attvalues>
       </node>
       <node id="Dave Matthews Band" label="Dave Matthews Band">
@@ -1031,6 +1133,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0020025748149945645" />
           <attvalue for="5" value="0.0033797621739422926" />
+          <attvalue for="6" value="36464" />
         </attvalues>
       </node>
       <node id="David Bowie" label="David Bowie">
@@ -1041,6 +1144,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.012061759944968138" />
           <attvalue for="5" value="0.013367672643233191" />
+          <attvalue for="6" value="95660" />
         </attvalues>
       </node>
       <node id="Days of the New" label="Days of the New">
@@ -1051,6 +1155,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.00042701249618434036" />
           <attvalue for="5" value="0.0001901349690664816" />
+          <attvalue for="6" value="10998" />
         </attvalues>
       </node>
       <node id="Death Cab for Cutie" label="Death Cab for Cutie">
@@ -1061,6 +1166,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.0007146020379619183" />
           <attvalue for="5" value="0.0002292153734543346" />
+          <attvalue for="6" value="23522" />
         </attvalues>
       </node>
       <node id="Deep Purple" label="Deep Purple">
@@ -1071,6 +1177,7 @@
           <attvalue for="3" value="71" />
           <attvalue for="4" value="0.006166329991336418" />
           <attvalue for="5" value="0.04300044994947823" />
+          <attvalue for="6" value="56644" />
         </attvalues>
       </node>
       <node id="Def Leppard" label="Def Leppard">
@@ -1081,6 +1188,7 @@
           <attvalue for="3" value="52" />
           <attvalue for="4" value="0.003450699894794696" />
           <attvalue for="5" value="0.022373228574778088" />
+          <attvalue for="6" value="44959" />
         </attvalues>
       </node>
       <node id="Deftones" label="Deftones">
@@ -1091,6 +1199,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0021509762372528864" />
           <attvalue for="5" value="0.0031310101978431395" />
+          <attvalue for="6" value="34489" />
         </attvalues>
       </node>
       <node id="Depeche Mode" label="Depeche Mode">
@@ -1101,6 +1210,7 @@
           <attvalue for="3" value="27" />
           <attvalue for="4" value="0.0027069951561536263" />
           <attvalue for="5" value="0.006993588018573443" />
+          <attvalue for="6" value="48781" />
         </attvalues>
       </node>
       <node id="Dio (band)" label="Dio (band)">
@@ -1111,6 +1221,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0017385361473534603" />
           <attvalue for="5" value="0.001984638389969066" />
+          <attvalue for="6" value="14525" />
         </attvalues>
       </node>
       <node id="Dire Straits" label="Dire Straits">
@@ -1121,6 +1232,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0019413178029879284" />
           <attvalue for="5" value="0.0017556730491624663" />
+          <attvalue for="6" value="39461" />
         </attvalues>
       </node>
       <node id="Disturbed (band)" label="Disturbed (band)">
@@ -1131,6 +1243,7 @@
           <attvalue for="3" value="33" />
           <attvalue for="4" value="0.001566570386915336" />
           <attvalue for="5" value="0.004389448374046841" />
+          <attvalue for="6" value="28449" />
         </attvalues>
       </node>
       <node id="Don Henley" label="Don Henley">
@@ -1141,6 +1254,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.002503883950992106" />
           <attvalue for="5" value="0.0020899792018525204" />
+          <attvalue for="6" value="23636" />
         </attvalues>
       </node>
       <node id="Donovan" label="Donovan">
@@ -1151,6 +1265,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0021040797413762326" />
           <attvalue for="5" value="0.002241800838914682" />
+          <attvalue for="6" value="41388" />
         </attvalues>
       </node>
       <node id="Dropkick Murphys" label="Dropkick Murphys">
@@ -1161,6 +1276,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.001027141063117301" />
           <attvalue for="5" value="0.00032195533824878767" />
+          <attvalue for="6" value="45607" />
         </attvalues>
       </node>
       <node id="Drowning Pool" label="Drowning Pool">
@@ -1171,6 +1287,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0005875940359458512" />
           <attvalue for="5" value="0.0011211924185258425" />
+          <attvalue for="6" value="10711" />
         </attvalues>
       </node>
       <node id="Duane Eddy" label="Duane Eddy">
@@ -1181,6 +1298,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0013148357291729654" />
           <attvalue for="5" value="0.0002709959753814905" />
+          <attvalue for="6" value="15498" />
         </attvalues>
       </node>
       <node id="Duran Duran" label="Duran Duran">
@@ -1191,6 +1309,7 @@
           <attvalue for="3" value="27" />
           <attvalue for="4" value="0.0022042036308091515" />
           <attvalue for="5" value="0.008438435157262255" />
+          <attvalue for="6" value="59758" />
         </attvalues>
       </node>
       <node id="Eagles (band)" label="Eagles (band)">
@@ -1201,6 +1320,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0036447690875910524" />
           <attvalue for="5" value="0.006766833293660882" />
+          <attvalue for="6" value="42391" />
         </attvalues>
       </node>
       <node id="Echo &amp; the Bunnymen" label="Echo &amp; the Bunnymen">
@@ -1211,6 +1331,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0018380317977049116" />
           <attvalue for="5" value="0.0007347796587587257" />
+          <attvalue for="6" value="28726" />
         </attvalues>
       </node>
       <node id="Eddie Cochran" label="Eddie Cochran">
@@ -1221,6 +1342,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.003093165840476296" />
           <attvalue for="5" value="0.003735973390013348" />
+          <attvalue for="6" value="22993" />
         </attvalues>
       </node>
       <node id="Eddie Money" label="Eddie Money">
@@ -1231,6 +1353,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0005330369893051238" />
           <attvalue for="5" value="0.00034060021691043366" />
+          <attvalue for="6" value="9251" />
         </attvalues>
       </node>
       <node id="Edgar Winter" label="Edgar Winter">
@@ -1241,6 +1364,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0005554266662364277" />
           <attvalue for="5" value="0.00019688070971529993" />
+          <attvalue for="6" value="7102" />
         </attvalues>
       </node>
       <node id="Electric Light Orchestra" label="Electric Light Orchestra">
@@ -1251,6 +1375,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0016924103109301307" />
           <attvalue for="5" value="0.000789127191218988" />
+          <attvalue for="6" value="28754" />
         </attvalues>
       </node>
       <node id="Elton John" label="Elton John">
@@ -1261,6 +1386,7 @@
           <attvalue for="3" value="24" />
           <attvalue for="4" value="0.010667254919632222" />
           <attvalue for="5" value="0.020707255632577425" />
+          <attvalue for="6" value="78896" />
         </attvalues>
       </node>
       <node id="Elvis Costello" label="Elvis Costello">
@@ -1271,6 +1397,7 @@
           <attvalue for="3" value="28" />
           <attvalue for="4" value="0.005962648625176532" />
           <attvalue for="5" value="0.01069681399452402" />
+          <attvalue for="6" value="84314" />
         </attvalues>
       </node>
       <node id="Elvis Presley" label="Elvis Presley">
@@ -1281,6 +1408,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.014665480710302561" />
           <attvalue for="5" value="0.004654747895662495" />
+          <attvalue for="6" value="95820" />
         </attvalues>
       </node>
       <node id="Emerson, Lake &amp; Palmer" label="Emerson, Lake &amp; Palmer">
@@ -1291,6 +1419,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0016088122397087297" />
           <attvalue for="5" value="0.0006761194612671714" />
+          <attvalue for="6" value="31005" />
         </attvalues>
       </node>
       <node id="England Dan &amp; John Ford Coley" label="England Dan &amp; John Ford Coley">
@@ -1301,6 +1430,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="5827" />
         </attvalues>
       </node>
       <node id="Eric Clapton" label="Eric Clapton">
@@ -1311,6 +1441,7 @@
           <attvalue for="3" value="32" />
           <attvalue for="4" value="0.010673618015720246" />
           <attvalue for="5" value="0.01418064124083691" />
+          <attvalue for="6" value="77287" />
         </attvalues>
       </node>
       <node id="Europe (band)" label="Europe (band)">
@@ -1321,6 +1452,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0007001660142218009" />
           <attvalue for="5" value="0.0006031620067144819" />
+          <attvalue for="6" value="16827" />
         </attvalues>
       </node>
       <node id="Evanescence" label="Evanescence">
@@ -1331,6 +1463,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.001341194553890166" />
           <attvalue for="5" value="0.0029187129746498924" />
+          <attvalue for="6" value="55492" />
         </attvalues>
       </node>
       <node id="Everclear (band)" label="Everclear (band)">
@@ -1341,6 +1474,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0010003407955035642" />
           <attvalue for="5" value="0.002596861160682845" />
+          <attvalue for="6" value="19958" />
         </attvalues>
       </node>
       <node id="Everlast" label="Everlast">
@@ -1351,6 +1485,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="12770" />
         </attvalues>
       </node>
       <node id="Extreme (band)" label="Extreme (band)">
@@ -1361,6 +1496,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0014030858917465187" />
           <attvalue for="5" value="0.00022533762402625687" />
+          <attvalue for="6" value="13818" />
         </attvalues>
       </node>
       <node id="Faces (band)" label="Faces (band)">
@@ -1371,6 +1507,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0012183756856068186" />
           <attvalue for="5" value="0.00035256987480167544" />
+          <attvalue for="6" value="15496" />
         </attvalues>
       </node>
       <node id="Faith No More" label="Faith No More">
@@ -1381,6 +1518,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.0023425098812217804" />
           <attvalue for="5" value="0.005069834002258521" />
+          <attvalue for="6" value="30061" />
         </attvalues>
       </node>
       <node id="Fall Out Boy" label="Fall Out Boy">
@@ -1391,6 +1529,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0018005518502193143" />
           <attvalue for="5" value="0.0056324324063542755" />
+          <attvalue for="6" value="51784" />
         </attvalues>
       </node>
       <node id="Fats Domino" label="Fats Domino">
@@ -1401,6 +1540,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0057402938109267655" />
           <attvalue for="5" value="0.001691847195176593" />
+          <attvalue for="6" value="22237" />
         </attvalues>
       </node>
       <node id="Filter (band)" label="Filter (band)">
@@ -1411,6 +1551,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0013608183734185675" />
           <attvalue for="5" value="0.001584423801236873" />
+          <attvalue for="6" value="17703" />
         </attvalues>
       </node>
       <node id="Finger Eleven" label="Finger Eleven">
@@ -1421,6 +1562,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0008697245524186542" />
           <attvalue for="5" value="0.0010716622228065617" />
+          <attvalue for="6" value="10309" />
         </attvalues>
       </node>
       <node id="FireHouse" label="FireHouse">
@@ -1431,6 +1573,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="11766" />
         </attvalues>
       </node>
       <node id="Five Finger Death Punch" label="Five Finger Death Punch">
@@ -1441,6 +1584,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0011760912243453038" />
           <attvalue for="5" value="0.0010720945662049386" />
+          <attvalue for="6" value="20543" />
         </attvalues>
       </node>
       <node id="Five for Fighting" label="Five for Fighting">
@@ -1451,6 +1595,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.00042193709802035767" />
           <attvalue for="5" value="0.000854949635320401" />
+          <attvalue for="6" value="22343" />
         </attvalues>
       </node>
       <node id="Fleetwood Mac" label="Fleetwood Mac">
@@ -1461,6 +1606,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.00436990788188899" />
           <attvalue for="5" value="0.014324156067357098" />
+          <attvalue for="6" value="54664" />
         </attvalues>
       </node>
       <node id="Flogging Molly" label="Flogging Molly">
@@ -1471,6 +1617,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.00042309965094407986" />
           <attvalue for="5" value="0.0001636532921199923" />
+          <attvalue for="6" value="8563" />
         </attvalues>
       </node>
       <node id="Florence and the Machine" label="Florence and the Machine">
@@ -1481,6 +1628,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0005429490343004126" />
           <attvalue for="5" value="0.0007792039415484111" />
+          <attvalue for="6" value="26728" />
         </attvalues>
       </node>
       <node id="Flyleaf (band)" label="Flyleaf (band)">
@@ -1491,6 +1639,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0007458771662499873" />
           <attvalue for="5" value="0.00023020231648715003" />
+          <attvalue for="6" value="16014" />
         </attvalues>
       </node>
       <node id="Foals (band)" label="Foals (band)">
@@ -1501,6 +1650,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0005914175097401048" />
           <attvalue for="5" value="0.00028955560646196587" />
+          <attvalue for="6" value="16652" />
         </attvalues>
       </node>
       <node id="Foo Fighters" label="Foo Fighters">
@@ -1511,6 +1661,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.005444992340815342" />
           <attvalue for="5" value="0.010869107948797526" />
+          <attvalue for="6" value="36990" />
         </attvalues>
       </node>
       <node id="Foreigner (band)" label="Foreigner (band)">
@@ -1521,6 +1672,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0021610594491984205" />
           <attvalue for="5" value="0.004174667816257157" />
+          <attvalue for="6" value="43027" />
         </attvalues>
       </node>
       <node id="Foster the People" label="Foster the People">
@@ -1531,6 +1683,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.00034699734578080014" />
           <attvalue for="5" value="0.0010268855848877632" />
+          <attvalue for="6" value="27883" />
         </attvalues>
       </node>
       <node id="Frank Zappa" label="Frank Zappa">
@@ -1541,6 +1694,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.004911785209265285" />
           <attvalue for="5" value="0.009730745856080218" />
+          <attvalue for="6" value="86973" />
         </attvalues>
       </node>
       <node id="Franz Ferdinand (band)" label="Franz Ferdinand (band)">
@@ -1551,6 +1705,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0010023407266583362" />
           <attvalue for="5" value="0.0035693313731366893" />
+          <attvalue for="6" value="23325" />
         </attvalues>
       </node>
       <node id="Fuel (band)" label="Fuel (band)">
@@ -1561,6 +1716,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.00066545982193431" />
           <attvalue for="5" value="0.0005619257401203098" />
+          <attvalue for="6" value="17948" />
         </attvalues>
       </node>
       <node id="Fun (band)" label="Fun (band)">
@@ -1571,6 +1727,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0006090846353363195" />
           <attvalue for="5" value="0.0002333952933323909" />
+          <attvalue for="6" value="9971" />
         </attvalues>
       </node>
       <node id="Funkadelic" label="Funkadelic">
@@ -1581,6 +1738,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0015886416169635202" />
           <attvalue for="5" value="0.0016216460888040193" />
+          <attvalue for="6" value="10951" />
         </attvalues>
       </node>
       <node id="Garbage (band)" label="Garbage (band)">
@@ -1591,6 +1749,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0010955152556683027" />
           <attvalue for="5" value="0.0011146634537930328" />
+          <attvalue for="6" value="40003" />
         </attvalues>
       </node>
       <node id="Gary Glitter" label="Gary Glitter">
@@ -1601,6 +1760,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0005301540725295027" />
           <attvalue for="5" value="0.00021773633780344462" />
+          <attvalue for="6" value="31175" />
         </attvalues>
       </node>
       <node id="Gene Vincent" label="Gene Vincent">
@@ -1611,6 +1771,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.001240497711809918" />
           <attvalue for="5" value="0.0032620834093084823" />
+          <attvalue for="6" value="18313" />
         </attvalues>
       </node>
       <node id="Genesis (band)" label="Genesis (band)">
@@ -1621,6 +1782,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.004222975598827251" />
           <attvalue for="5" value="0.007543176063650294" />
+          <attvalue for="6" value="68714" />
         </attvalues>
       </node>
       <node id="George Harrison" label="George Harrison">
@@ -1631,6 +1793,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.00764860136705591" />
           <attvalue for="5" value="0.004989173543189579" />
+          <attvalue for="6" value="69995" />
         </attvalues>
       </node>
       <node id="George Thorogood" label="George Thorogood">
@@ -1641,6 +1804,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.0010899514721913702" />
           <attvalue for="5" value="5.446393332252544e-06" />
+          <attvalue for="6" value="12517" />
         </attvalues>
       </node>
       <node id="Ghost (Swedish band)" label="Ghost (Swedish band)">
@@ -1651,6 +1815,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.0007959261961450369" />
           <attvalue for="5" value="0.000337726687519583" />
+          <attvalue for="6" value="35540" />
         </attvalues>
       </node>
       <node id="Gin Blossoms" label="Gin Blossoms">
@@ -1661,6 +1826,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0005964693195173417" />
           <attvalue for="5" value="0.00028703987156240666" />
+          <attvalue for="6" value="10352" />
         </attvalues>
       </node>
       <node id="Glenn Frey" label="Glenn Frey">
@@ -1671,6 +1837,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.001322899011228756" />
           <attvalue for="5" value="0.00011791901302989392" />
+          <attvalue for="6" value="12200" />
         </attvalues>
       </node>
       <node id="Godsmack" label="Godsmack">
@@ -1681,6 +1848,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0017257359357805693" />
           <attvalue for="5" value="0.0012476462137728597" />
+          <attvalue for="6" value="20272" />
         </attvalues>
       </node>
       <node id="Golden Earring" label="Golden Earring">
@@ -1691,6 +1859,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.00048493567649087556" />
           <attvalue for="5" value="6.258306655866214e-05" />
+          <attvalue for="6" value="8892" />
         </attvalues>
       </node>
       <node id="Goo Goo Dolls" label="Goo Goo Dolls">
@@ -1701,6 +1870,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.000819675057313237" />
           <attvalue for="5" value="0.00041272588788476063" />
+          <attvalue for="6" value="13784" />
         </attvalues>
       </node>
       <node id="Good Charlotte" label="Good Charlotte">
@@ -1711,6 +1881,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0005845148355990234" />
           <attvalue for="5" value="0.0010612846255823544" />
+          <attvalue for="6" value="24370" />
         </attvalues>
       </node>
       <node id="Grand Funk Railroad" label="Grand Funk Railroad">
@@ -1721,6 +1892,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0009071141472728714" />
           <attvalue for="5" value="0.0002979885130505493" />
+          <attvalue for="6" value="17222" />
         </attvalues>
       </node>
       <node id="Grateful Dead" label="Grateful Dead">
@@ -1731,6 +1903,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.005107138014128071" />
           <attvalue for="5" value="0.0031188656372584224" />
+          <attvalue for="6" value="50206" />
         </attvalues>
       </node>
       <node id="Great White" label="Great White">
@@ -1741,6 +1914,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.0006981078344547402" />
           <attvalue for="5" value="0.0002372651816676696" />
+          <attvalue for="6" value="24227" />
         </attvalues>
       </node>
       <node id="Green Day" label="Green Day">
@@ -1751,6 +1925,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.004347185170116702" />
           <attvalue for="5" value="0.014687758626076925" />
+          <attvalue for="6" value="55446" />
         </attvalues>
       </node>
       <node id="Greta Van Fleet" label="Greta Van Fleet">
@@ -1761,6 +1936,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.00044193150503531707" />
           <attvalue for="5" value="5.1264473057616275e-05" />
+          <attvalue for="6" value="13407" />
         </attvalues>
       </node>
       <node id="Guns N' Roses" label="Guns N' Roses">
@@ -1771,6 +1947,7 @@
           <attvalue for="3" value="51" />
           <attvalue for="4" value="0.0069655159035463335" />
           <attvalue for="5" value="0.03519016513869462" />
+          <attvalue for="6" value="75867" />
         </attvalues>
       </node>
       <node id="Halestorm" label="Halestorm">
@@ -1781,6 +1958,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0014127765795158126" />
           <attvalue for="5" value="0.001061866974841286" />
+          <attvalue for="6" value="9845" />
         </attvalues>
       </node>
       <node id="Hall &amp; Oates" label="Hall &amp; Oates">
@@ -1791,6 +1969,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0011755885706540986" />
           <attvalue for="5" value="0.0009943124581597068" />
+          <attvalue for="6" value="30781" />
         </attvalues>
       </node>
       <node id="Harry Chapin" label="Harry Chapin">
@@ -1801,6 +1980,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.0006552571876870858" />
           <attvalue for="5" value="0.00011215200317841842" />
+          <attvalue for="6" value="22322" />
         </attvalues>
       </node>
       <node id="Harry Nilsson" label="Harry Nilsson">
@@ -1811,6 +1991,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.002956761170909515" />
           <attvalue for="5" value="0.002332187658157804" />
+          <attvalue for="6" value="33242" />
         </attvalues>
       </node>
       <node id="Heart (band)" label="Heart (band)">
@@ -1821,6 +2002,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.0018698164403009839" />
           <attvalue for="5" value="0.004147887357691547" />
+          <attvalue for="6" value="27071" />
         </attvalues>
       </node>
       <node id="Herman's Hermits" label="Herman's Hermits">
@@ -1831,6 +2013,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.0018939048328900847" />
           <attvalue for="5" value="0.00031882537697317323" />
+          <attvalue for="6" value="18352" />
         </attvalues>
       </node>
       <node id="Highly Suspect" label="Highly Suspect">
@@ -1841,6 +2024,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0003577070982445071" />
           <attvalue for="5" value="0.00010427427187504012" />
+          <attvalue for="6" value="5408" />
         </attvalues>
       </node>
       <node id="Hinder" label="Hinder">
@@ -1851,6 +2035,7 @@
           <attvalue for="3" value="27" />
           <attvalue for="4" value="0.0008633209633651766" />
           <attvalue for="5" value="0.0034215705442225417" />
+          <attvalue for="6" value="17480" />
         </attvalues>
       </node>
       <node id="Hole (band)" label="Hole (band)">
@@ -1861,6 +2046,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0012515136081192918" />
           <attvalue for="5" value="0.0013260932701246574" />
+          <attvalue for="6" value="36619" />
         </attvalues>
       </node>
       <node id="Hoobastank" label="Hoobastank">
@@ -1871,6 +2057,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0005735017650279569" />
           <attvalue for="5" value="0.0001694881512836413" />
+          <attvalue for="6" value="10572" />
         </attvalues>
       </node>
       <node id="Hootie &amp; the Blowfish" label="Hootie &amp; the Blowfish">
@@ -1881,6 +2068,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0004375839683619045" />
           <attvalue for="5" value="4.191229381061479e-05" />
+          <attvalue for="6" value="12066" />
         </attvalues>
       </node>
       <node id="Huey Lewis and the News" label="Huey Lewis and the News">
@@ -1891,6 +2079,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0005507804950803444" />
           <attvalue for="5" value="7.794851752144851e-05" />
+          <attvalue for="6" value="16871" />
         </attvalues>
       </node>
       <node id="INXS" label="INXS">
@@ -1901,6 +2090,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0011639686484799417" />
           <attvalue for="5" value="0.005761605082661285" />
+          <attvalue for="6" value="31596" />
         </attvalues>
       </node>
       <node id="Ian Dury" label="Ian Dury">
@@ -1911,6 +2101,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0004314070978928738" />
           <attvalue for="5" value="6.334694570340815e-05" />
+          <attvalue for="6" value="23911" />
         </attvalues>
       </node>
       <node id="Icehouse (band)" label="Icehouse (band)">
@@ -1921,6 +2112,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0007078331207355723" />
           <attvalue for="5" value="0.0007150846192798669" />
+          <attvalue for="6" value="23523" />
         </attvalues>
       </node>
       <node id="Iggy Pop" label="Iggy Pop">
@@ -1931,6 +2123,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0042018710548525715" />
           <attvalue for="5" value="0.0048514117125857785" />
+          <attvalue for="6" value="46780" />
         </attvalues>
       </node>
       <node id="Imagine Dragons" label="Imagine Dragons">
@@ -1941,6 +2134,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0005770115621425772" />
           <attvalue for="5" value="0.00647215061208517" />
+          <attvalue for="6" value="29209" />
         </attvalues>
       </node>
       <node id="Incubus (band)" label="Incubus (band)">
@@ -1951,6 +2145,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.0019578573300221523" />
           <attvalue for="5" value="0.003371509618021899" />
+          <attvalue for="6" value="36924" />
         </attvalues>
       </node>
       <node id="Interpol (band)" label="Interpol (band)">
@@ -1961,6 +2156,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.000570657878977444" />
           <attvalue for="5" value="4.061850744420556e-05" />
+          <attvalue for="6" value="15165" />
         </attvalues>
       </node>
       <node id="Iron Maiden" label="Iron Maiden">
@@ -1971,6 +2167,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.004413984004385243" />
           <attvalue for="5" value="0.009026138384788215" />
+          <attvalue for="6" value="51314" />
         </attvalues>
       </node>
       <node id="Jack White" label="Jack White">
@@ -1981,6 +2178,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0016890234664202579" />
           <attvalue for="5" value="0.0021617655080205423" />
+          <attvalue for="6" value="47247" />
         </attvalues>
       </node>
       <node id="Jackson Browne" label="Jackson Browne">
@@ -1991,6 +2189,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0023235891071398127" />
           <attvalue for="5" value="0.004585509585633153" />
+          <attvalue for="6" value="25755" />
         </attvalues>
       </node>
       <node id="James Blunt" label="James Blunt">
@@ -2001,6 +2200,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.0006782492896708764" />
           <attvalue for="5" value="5.330743178715399e-05" />
+          <attvalue for="6" value="24829" />
         </attvalues>
       </node>
       <node id="James Taylor" label="James Taylor">
@@ -2011,6 +2211,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.00201556749418515" />
           <attvalue for="5" value="0.002009869262406015" />
+          <attvalue for="6" value="42674" />
         </attvalues>
       </node>
       <node id="Jane's Addiction" label="Jane's Addiction">
@@ -2021,6 +2222,7 @@
           <attvalue for="3" value="27" />
           <attvalue for="4" value="0.002299422561499236" />
           <attvalue for="5" value="0.005966350563347043" />
+          <attvalue for="6" value="35879" />
         </attvalues>
       </node>
       <node id="Janis Joplin" label="Janis Joplin">
@@ -2031,6 +2233,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.00253418393948152" />
           <attvalue for="5" value="0.004269560202587537" />
+          <attvalue for="6" value="53934" />
         </attvalues>
       </node>
       <node id="Jeff Buckley" label="Jeff Buckley">
@@ -2041,6 +2244,7 @@
           <attvalue for="3" value="25" />
           <attvalue for="4" value="0.0016335675476581964" />
           <attvalue for="5" value="0.002411638850332359" />
+          <attvalue for="6" value="34332" />
         </attvalues>
       </node>
       <node id="Jefferson Airplane" label="Jefferson Airplane">
@@ -2051,6 +2255,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.003046943881448276" />
           <attvalue for="5" value="0.0043408735786456525" />
+          <attvalue for="6" value="39690" />
         </attvalues>
       </node>
       <node id="Jefferson Starship" label="Jefferson Starship">
@@ -2061,6 +2266,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0009908534170462247" />
           <attvalue for="5" value="0.000833644832961061" />
+          <attvalue for="6" value="23758" />
         </attvalues>
       </node>
       <node id="Jerry Lee Lewis" label="Jerry Lee Lewis">
@@ -2071,6 +2277,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.005986202559010336" />
           <attvalue for="5" value="0.0016067242278629652" />
+          <attvalue for="6" value="38367" />
         </attvalues>
       </node>
       <node id="Jethro Tull (band)" label="Jethro Tull (band)">
@@ -2081,6 +2288,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0024622304297126935" />
           <attvalue for="5" value="0.0026534123509144593" />
+          <attvalue for="6" value="44967" />
         </attvalues>
       </node>
       <node id="Jim Croce" label="Jim Croce">
@@ -2091,6 +2299,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.0004304178199295858" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="12378" />
         </attvalues>
       </node>
       <node id="Jimi Hendrix" label="Jimi Hendrix">
@@ -2101,6 +2310,7 @@
           <attvalue for="3" value="32" />
           <attvalue for="4" value="0.011675420744166408" />
           <attvalue for="5" value="0.03358700808333189" />
+          <attvalue for="6" value="77810" />
         </attvalues>
       </node>
       <node id="Jimmy Eat World" label="Jimmy Eat World">
@@ -2111,6 +2321,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.000896393309071383" />
           <attvalue for="5" value="0.0011688864664250519" />
+          <attvalue for="6" value="17893" />
         </attvalues>
       </node>
       <node id="Joan Jett" label="Joan Jett">
@@ -2121,6 +2332,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0012638407224844612" />
           <attvalue for="5" value="0.0014816043220623118" />
+          <attvalue for="6" value="27811" />
         </attvalues>
       </node>
       <node id="Joe Cocker" label="Joe Cocker">
@@ -2131,6 +2343,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0017726398376809302" />
           <attvalue for="5" value="0.001964157892753224" />
+          <attvalue for="6" value="23630" />
         </attvalues>
       </node>
       <node id="Joe Satriani" label="Joe Satriani">
@@ -2141,6 +2354,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0017849031604820608" />
           <attvalue for="5" value="0.004092502973697115" />
+          <attvalue for="6" value="21962" />
         </attvalues>
       </node>
       <node id="Joe Walsh" label="Joe Walsh">
@@ -2151,6 +2365,7 @@
           <attvalue for="3" value="27" />
           <attvalue for="4" value="0.0033994039391617506" />
           <attvalue for="5" value="0.0068858382095015385" />
+          <attvalue for="6" value="39048" />
         </attvalues>
       </node>
       <node id="John Fogerty" label="John Fogerty">
@@ -2161,6 +2376,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.003103952355548029" />
           <attvalue for="5" value="0.001369464786878336" />
+          <attvalue for="6" value="26330" />
         </attvalues>
       </node>
       <node id="John Lennon" label="John Lennon">
@@ -2171,6 +2387,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.013494056425942813" />
           <attvalue for="5" value="0.005578800093064576" />
+          <attvalue for="6" value="78617" />
         </attvalues>
       </node>
       <node id="John Mayall" label="John Mayall">
@@ -2181,6 +2398,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0009919054072936705" />
           <attvalue for="5" value="0.002830242732835682" />
+          <attvalue for="6" value="19643" />
         </attvalues>
       </node>
       <node id="John Mayall &amp; the Bluesbreakers" label="John Mayall &amp; the Bluesbreakers">
@@ -2191,6 +2409,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0016019434084872776" />
           <attvalue for="5" value="0.0007651637723648661" />
+          <attvalue for="6" value="5933" />
         </attvalues>
       </node>
       <node id="John Mayer" label="John Mayer">
@@ -2201,6 +2420,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.002240620407937287" />
           <attvalue for="5" value="0.002589896031757622" />
+          <attvalue for="6" value="51904" />
         </attvalues>
       </node>
       <node id="John Mellencamp" label="John Mellencamp">
@@ -2211,6 +2431,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.00295088555673081" />
           <attvalue for="5" value="0.0022919634441735605" />
+          <attvalue for="6" value="56376" />
         </attvalues>
       </node>
       <node id="Journey (band)" label="Journey (band)">
@@ -2221,6 +2442,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.003996557596282945" />
           <attvalue for="5" value="0.014349654882736752" />
+          <attvalue for="6" value="37157" />
         </attvalues>
       </node>
       <node id="Joy Division" label="Joy Division">
@@ -2231,6 +2453,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.003356660094119813" />
           <attvalue for="5" value="0.0012600610300774143" />
+          <attvalue for="6" value="26259" />
         </attvalues>
       </node>
       <node id="Judas Priest" label="Judas Priest">
@@ -2241,6 +2464,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.004377018649433868" />
           <attvalue for="5" value="0.006226573052509025" />
+          <attvalue for="6" value="49367" />
         </attvalues>
       </node>
       <node id="Kaiser Chiefs" label="Kaiser Chiefs">
@@ -2251,6 +2475,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0005218110722174357" />
           <attvalue for="5" value="0.00017762081056305778" />
+          <attvalue for="6" value="17698" />
         </attvalues>
       </node>
       <node id="Kaleo (band)" label="Kaleo (band)">
@@ -2261,6 +2486,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="7356" />
         </attvalues>
       </node>
       <node id="Kansas (band)" label="Kansas (band)">
@@ -2271,6 +2497,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0008886853864746512" />
           <attvalue for="5" value="0.0024586593875817677" />
+          <attvalue for="6" value="29623" />
         </attvalues>
       </node>
       <node id="Keane (band)" label="Keane (band)">
@@ -2281,6 +2508,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0006104673142589567" />
           <attvalue for="5" value="0.00041425267664740737" />
+          <attvalue for="6" value="30276" />
         </attvalues>
       </node>
       <node id="Kenny Loggins" label="Kenny Loggins">
@@ -2291,6 +2519,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0013130860797744507" />
           <attvalue for="5" value="0.0009465930833010272" />
+          <attvalue for="6" value="18358" />
         </attvalues>
       </node>
       <node id="Kid Rock" label="Kid Rock">
@@ -2301,6 +2530,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0022967712351533833" />
           <attvalue for="5" value="0.004063469900633846" />
+          <attvalue for="6" value="34653" />
         </attvalues>
       </node>
       <node id="Killswitch Engage" label="Killswitch Engage">
@@ -2311,6 +2541,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0010124339170755163" />
           <attvalue for="5" value="0.0011860031852829207" />
+          <attvalue for="6" value="31698" />
         </attvalues>
       </node>
       <node id="Kings of Leon" label="Kings of Leon">
@@ -2321,6 +2552,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.001039268285057845" />
           <attvalue for="5" value="0.0006241326995242932" />
+          <attvalue for="6" value="20619" />
         </attvalues>
       </node>
       <node id="Kiss (band)" label="Kiss (band)">
@@ -2331,6 +2563,7 @@
           <attvalue for="3" value="24" />
           <attvalue for="4" value="0.006804580986404393" />
           <attvalue for="5" value="0.012272562701510354" />
+          <attvalue for="6" value="79187" />
         </attvalues>
       </node>
       <node id="Korn" label="Korn">
@@ -2341,6 +2574,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.002961095166172067" />
           <attvalue for="5" value="0.008155413552237442" />
+          <attvalue for="6" value="50355" />
         </attvalues>
       </node>
       <node id="Lacuna Coil" label="Lacuna Coil">
@@ -2351,6 +2585,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0008921877396574406" />
           <attvalue for="5" value="0.0003115445828938266" />
+          <attvalue for="6" value="19038" />
         </attvalues>
       </node>
       <node id="Lamb of God (band)" label="Lamb of God (band)">
@@ -2361,6 +2596,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0010319596616984762" />
           <attvalue for="5" value="0.00016573942890559562" />
+          <attvalue for="6" value="26051" />
         </attvalues>
       </node>
       <node id="Led Zeppelin" label="Led Zeppelin">
@@ -2371,6 +2607,7 @@
           <attvalue for="3" value="29" />
           <attvalue for="4" value="0.01275124203552005" />
           <attvalue for="5" value="0.03435347088217441" />
+          <attvalue for="6" value="48522" />
         </attvalues>
       </node>
       <node id="Lenny Kravitz" label="Lenny Kravitz">
@@ -2381,6 +2618,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0022689379289676436" />
           <attvalue for="5" value="0.001457054018861565" />
+          <attvalue for="6" value="22235" />
         </attvalues>
       </node>
       <node id="Lifehouse (band)" label="Lifehouse (band)">
@@ -2391,6 +2629,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0003919505914981875" />
           <attvalue for="5" value="3.847716246501383e-05" />
+          <attvalue for="6" value="14868" />
         </attvalues>
       </node>
       <node id="Limp Bizkit" label="Limp Bizkit">
@@ -2401,6 +2640,7 @@
           <attvalue for="3" value="38" />
           <attvalue for="4" value="0.002450395982065223" />
           <attvalue for="5" value="0.005539231495499238" />
+          <attvalue for="6" value="60299" />
         </attvalues>
       </node>
       <node id="Linda Ronstadt" label="Linda Ronstadt">
@@ -2411,6 +2651,7 @@
           <attvalue for="3" value="24" />
           <attvalue for="4" value="0.0028914591526144856" />
           <attvalue for="5" value="0.0035316564642886373" />
+          <attvalue for="6" value="77262" />
         </attvalues>
       </node>
       <node id="Linkin Park" label="Linkin Park">
@@ -2421,6 +2662,7 @@
           <attvalue for="3" value="35" />
           <attvalue for="4" value="0.00233209342522833" />
           <attvalue for="5" value="0.009001276138820848" />
+          <attvalue for="6" value="44910" />
         </attvalues>
       </node>
       <node id="Little Richard" label="Little Richard">
@@ -2431,6 +2673,7 @@
           <attvalue for="3" value="40" />
           <attvalue for="4" value="0.011143847351520698" />
           <attvalue for="5" value="0.022112994505054" />
+          <attvalue for="6" value="68797" />
         </attvalues>
       </node>
       <node id="Little River Band" label="Little River Band">
@@ -2441,6 +2684,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0004363365689953422" />
           <attvalue for="5" value="0.0010211324785849092" />
+          <attvalue for="6" value="37756" />
         </attvalues>
       </node>
       <node id="Live (band)" label="Live (band)">
@@ -2451,6 +2695,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0016811689593853006" />
           <attvalue for="5" value="0.0025275421542559264" />
+          <attvalue for="6" value="15685" />
         </attvalues>
       </node>
       <node id="Living Colour" label="Living Colour">
@@ -2461,6 +2706,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.001695039019413007" />
           <attvalue for="5" value="0.00032371310573479624" />
+          <attvalue for="6" value="12018" />
         </attvalues>
       </node>
       <node id="Lou Reed" label="Lou Reed">
@@ -2471,6 +2717,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.005401687703076869" />
           <attvalue for="5" value="0.008456799039580873" />
+          <attvalue for="6" value="37240" />
         </attvalues>
       </node>
       <node id="Loverboy" label="Loverboy">
@@ -2481,6 +2728,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0007027150061475695" />
           <attvalue for="5" value="0.0009046674305601562" />
+          <attvalue for="6" value="12558" />
         </attvalues>
       </node>
       <node id="Lynyrd Skynyrd" label="Lynyrd Skynyrd">
@@ -2491,6 +2739,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.002167188526346083" />
           <attvalue for="5" value="0.004662176365048918" />
+          <attvalue for="6" value="28743" />
         </attvalues>
       </node>
       <node id="Manfred Mann" label="Manfred Mann">
@@ -2501,6 +2750,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0017022909057114411" />
           <attvalue for="5" value="0.001073066150429684" />
+          <attvalue for="6" value="13127" />
         </attvalues>
       </node>
       <node id="Manfred Mann (musician)" label="Manfred Mann (musician)">
@@ -2511,6 +2761,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0009734794939922444" />
           <attvalue for="5" value="2.94808809114849e-05" />
+          <attvalue for="6" value="6301" />
         </attvalues>
       </node>
       <node id="Manfred Mann Chapter Three" label="Manfred Mann Chapter Three">
@@ -2521,6 +2772,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0012098826938629337" />
           <attvalue for="5" value="0.0011035299464959155" />
+          <attvalue for="6" value="1092" />
         </attvalues>
       </node>
       <node id="Manfred Mann's Earth Band" label="Manfred Mann's Earth Band">
@@ -2531,6 +2783,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0018611535686233775" />
           <attvalue for="5" value="0.0041217662272804625" />
+          <attvalue for="6" value="19221" />
         </attvalues>
       </node>
       <node id="Marilyn Manson" label="Marilyn Manson">
@@ -2541,6 +2794,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0016290372394314077" />
           <attvalue for="5" value="0.002531224769099382" />
+          <attvalue for="6" value="58236" />
         </attvalues>
       </node>
       <node id="Marilyn Manson (band)" label="Marilyn Manson (band)">
@@ -2551,6 +2805,7 @@
           <attvalue for="3" value="33" />
           <attvalue for="4" value="0.0017317288887354122" />
           <attvalue for="5" value="0.004230496397535199" />
+          <attvalue for="6" value="64626" />
         </attvalues>
       </node>
       <node id="Matchbox Twenty" label="Matchbox Twenty">
@@ -2561,6 +2816,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0006761084068866522" />
           <attvalue for="5" value="0.0003042732752752106" />
+          <attvalue for="6" value="12999" />
         </attvalues>
       </node>
       <node id="Meat Loaf" label="Meat Loaf">
@@ -2571,6 +2827,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.000837342158195793" />
           <attvalue for="5" value="0.0017056508319571377" />
+          <attvalue for="6" value="37047" />
         </attvalues>
       </node>
       <node id="Megadeth" label="Megadeth">
@@ -2581,6 +2838,7 @@
           <attvalue for="3" value="42" />
           <attvalue for="4" value="0.0032199738796253033" />
           <attvalue for="5" value="0.005434938162486566" />
+          <attvalue for="6" value="70528" />
         </attvalues>
       </node>
       <node id="Melissa Etheridge" label="Melissa Etheridge">
@@ -2591,6 +2849,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0009203206311989675" />
           <attvalue for="5" value="0.0003769427984288182" />
+          <attvalue for="6" value="21279" />
         </attvalues>
       </node>
       <node id="Men at Work" label="Men at Work">
@@ -2601,6 +2860,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.0004618411665606627" />
           <attvalue for="5" value="4.061946855924656e-05" />
+          <attvalue for="6" value="19667" />
         </attvalues>
       </node>
       <node id="Metallica" label="Metallica">
@@ -2611,6 +2871,7 @@
           <attvalue for="3" value="47" />
           <attvalue for="4" value="0.007053497101868697" />
           <attvalue for="5" value="0.025135814762271863" />
+          <attvalue for="6" value="70687" />
         </attvalues>
       </node>
       <node id="Michael Martin Murphey" label="Michael Martin Murphey">
@@ -2621,6 +2882,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="26031" />
         </attvalues>
       </node>
       <node id="Midnight Oil" label="Midnight Oil">
@@ -2631,6 +2893,7 @@
           <attvalue for="3" value="28" />
           <attvalue for="4" value="0.000858297718176712" />
           <attvalue for="5" value="0.006100994361295632" />
+          <attvalue for="6" value="41573" />
         </attvalues>
       </node>
       <node id="Mike and the Mechanics" label="Mike and the Mechanics">
@@ -2641,6 +2904,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.000538657527227779" />
           <attvalue for="5" value="2.285775354006394e-05" />
+          <attvalue for="6" value="8682" />
         </attvalues>
       </node>
       <node id="Mitch Ryder" label="Mitch Ryder">
@@ -2651,6 +2915,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0005659450274711634" />
           <attvalue for="5" value="0.0005369034208737891" />
+          <attvalue for="6" value="7793" />
         </attvalues>
       </node>
       <node id="Modest Mouse" label="Modest Mouse">
@@ -2661,6 +2926,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0009935504116199054" />
           <attvalue for="5" value="0.0004371840915144836" />
+          <attvalue for="6" value="15544" />
         </attvalues>
       </node>
       <node id="Montgomery Gentry" label="Montgomery Gentry">
@@ -2671,6 +2937,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="22958" />
         </attvalues>
       </node>
       <node id="Morrissey" label="Morrissey">
@@ -2681,6 +2948,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.0027871687209879412" />
           <attvalue for="5" value="0.005118135798972311" />
+          <attvalue for="6" value="87347" />
         </attvalues>
       </node>
       <node id="Motörhead" label="Motörhead">
@@ -2691,6 +2959,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.002881120587433854" />
           <attvalue for="5" value="0.004472923385036821" />
+          <attvalue for="6" value="64193" />
         </attvalues>
       </node>
       <node id="Mudvayne" label="Mudvayne">
@@ -2701,6 +2970,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0007746353221039295" />
           <attvalue for="5" value="0.0003583662350207045" />
+          <attvalue for="6" value="12814" />
         </attvalues>
       </node>
       <node id="Mumford &amp; Sons" label="Mumford &amp; Sons">
@@ -2711,6 +2981,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0004577999080119519" />
           <attvalue for="5" value="0.00022793073885921025" />
+          <attvalue for="6" value="26164" />
         </attvalues>
       </node>
       <node id="Muse (band)" label="Muse (band)">
@@ -2721,6 +2992,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0015036637809981365" />
           <attvalue for="5" value="0.004182438110082435" />
+          <attvalue for="6" value="32324" />
         </attvalues>
       </node>
       <node id="My Chemical Romance" label="My Chemical Romance">
@@ -2731,6 +3003,7 @@
           <attvalue for="3" value="30" />
           <attvalue for="4" value="0.0016661082438648792" />
           <attvalue for="5" value="0.0075126606880618904" />
+          <attvalue for="6" value="36164" />
         </attvalues>
       </node>
       <node id="Mötley Crüe" label="Mötley Crüe">
@@ -2741,6 +3014,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.004259476581113122" />
           <attvalue for="5" value="0.012424145098222476" />
+          <attvalue for="6" value="53097" />
         </attvalues>
       </node>
       <node id="Neil Young" label="Neil Young">
@@ -2751,6 +3025,7 @@
           <attvalue for="3" value="32" />
           <attvalue for="4" value="0.007976363090057151" />
           <attvalue for="5" value="0.021845499440132008" />
+          <attvalue for="6" value="72660" />
         </attvalues>
       </node>
       <node id="New York Dolls" label="New York Dolls">
@@ -2761,6 +3036,7 @@
           <attvalue for="3" value="33" />
           <attvalue for="4" value="0.0026769423970290423" />
           <attvalue for="5" value="0.0072049090297614405" />
+          <attvalue for="6" value="24317" />
         </attvalues>
       </node>
       <node id="Nickelback" label="Nickelback">
@@ -2771,6 +3047,7 @@
           <attvalue for="3" value="29" />
           <attvalue for="4" value="0.00170857359333349" />
           <attvalue for="5" value="0.010636573878716915" />
+          <attvalue for="6" value="25224" />
         </attvalues>
       </node>
       <node id="Nine Inch Nails" label="Nine Inch Nails">
@@ -2781,6 +3058,7 @@
           <attvalue for="3" value="35" />
           <attvalue for="4" value="0.004984036112145366" />
           <attvalue for="5" value="0.012469752567054468" />
+          <attvalue for="6" value="65713" />
         </attvalues>
       </node>
       <node id="Nirvana (band)" label="Nirvana (band)">
@@ -2791,6 +3069,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.00858159823173047" />
           <attvalue for="5" value="0.009996742171984346" />
+          <attvalue for="6" value="35897" />
         </attvalues>
       </node>
       <node id="No Doubt" label="No Doubt">
@@ -2801,6 +3080,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0019908204339392278" />
           <attvalue for="5" value="0.00259867092523507" />
+          <attvalue for="6" value="24357" />
         </attvalues>
       </node>
       <node id="Oasis (band)" label="Oasis (band)">
@@ -2811,6 +3091,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0031386123606314655" />
           <attvalue for="5" value="0.007275128444510615" />
+          <attvalue for="6" value="46397" />
         </attvalues>
       </node>
       <node id="Our Lady Peace" label="Our Lady Peace">
@@ -2821,6 +3102,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0005678060932309769" />
           <attvalue for="5" value="0.0009058574736442285" />
+          <attvalue for="6" value="26077" />
         </attvalues>
       </node>
       <node id="Ozzy Osbourne" label="Ozzy Osbourne">
@@ -2831,6 +3113,7 @@
           <attvalue for="3" value="26" />
           <attvalue for="4" value="0.005230346974428988" />
           <attvalue for="5" value="0.009840135624803004" />
+          <attvalue for="6" value="68711" />
         </attvalues>
       </node>
       <node id="P.O.D." label="P.O.D.">
@@ -2841,6 +3124,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0008678486514605316" />
           <attvalue for="5" value="0.0006736858057583498" />
+          <attvalue for="6" value="18213" />
         </attvalues>
       </node>
       <node id="Panic! at the Disco" label="Panic! at the Disco">
@@ -2851,6 +3135,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0017445001583818332" />
           <attvalue for="5" value="0.0037821624073795636" />
+          <attvalue for="6" value="30857" />
         </attvalues>
       </node>
       <node id="Pantera" label="Pantera">
@@ -2861,6 +3146,7 @@
           <attvalue for="3" value="41" />
           <attvalue for="4" value="0.002774509781546188" />
           <attvalue for="5" value="0.005545713183627612" />
+          <attvalue for="6" value="46860" />
         </attvalues>
       </node>
       <node id="Papa Roach" label="Papa Roach">
@@ -2871,6 +3157,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.0015752787379535818" />
           <attvalue for="5" value="0.008912430300068082" />
+          <attvalue for="6" value="28953" />
         </attvalues>
       </node>
       <node id="Paramore" label="Paramore">
@@ -2881,6 +3168,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.0013454595525043897" />
           <attvalue for="5" value="0.0034899875177718115" />
+          <attvalue for="6" value="36252" />
         </attvalues>
       </node>
       <node id="Parliament (band)" label="Parliament (band)">
@@ -2891,6 +3179,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.0009787729413511161" />
           <attvalue for="5" value="8.896861512607956e-06" />
+          <attvalue for="6" value="6514" />
         </attvalues>
       </node>
       <node id="Parliament-Funkadelic" label="Parliament-Funkadelic">
@@ -2901,6 +3190,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0013355972573324756" />
           <attvalue for="5" value="0.0018741804809977766" />
+          <attvalue for="6" value="22096" />
         </attvalues>
       </node>
       <node id="Pat Benatar" label="Pat Benatar">
@@ -2911,6 +3201,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0011106860607508406" />
           <attvalue for="5" value="0.002979054865423783" />
+          <attvalue for="6" value="31125" />
         </attvalues>
       </node>
       <node id="Paul McCartney" label="Paul McCartney">
@@ -2921,6 +3212,7 @@
           <attvalue for="3" value="28" />
           <attvalue for="4" value="0.013169796964201667" />
           <attvalue for="5" value="0.01450888635888975" />
+          <attvalue for="6" value="85873" />
         </attvalues>
       </node>
       <node id="Paul McCartney and Wings" label="Paul McCartney and Wings">
@@ -2931,6 +3223,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0012864265601395383" />
           <attvalue for="5" value="0.0002128840708955547" />
+          <attvalue for="6" value="29306" />
         </attvalues>
       </node>
       <node id="Pearl Jam" label="Pearl Jam">
@@ -2941,6 +3234,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.007135388868707789" />
           <attvalue for="5" value="0.015619882690070355" />
+          <attvalue for="6" value="53536" />
         </attvalues>
       </node>
       <node id="Peter Frampton" label="Peter Frampton">
@@ -2951,6 +3245,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0027560086971504362" />
           <attvalue for="5" value="0.003057950929131779" />
+          <attvalue for="6" value="25975" />
         </attvalues>
       </node>
       <node id="Peter Gabriel" label="Peter Gabriel">
@@ -2961,6 +3256,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.003075997930072677" />
           <attvalue for="5" value="0.005754589836813535" />
+          <attvalue for="6" value="57133" />
         </attvalues>
       </node>
       <node id="Phil Collins" label="Phil Collins">
@@ -2971,6 +3267,7 @@
           <attvalue for="3" value="29" />
           <attvalue for="4" value="0.003746543802124826" />
           <attvalue for="5" value="0.006165117846327939" />
+          <attvalue for="6" value="76467" />
         </attvalues>
       </node>
       <node id="Pink Floyd" label="Pink Floyd">
@@ -2981,6 +3278,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0075576419090779105" />
           <attvalue for="5" value="0.005326517366194787" />
+          <attvalue for="6" value="79685" />
         </attvalues>
       </node>
       <node id="Pixies (band)" label="Pixies (band)">
@@ -2991,6 +3289,7 @@
           <attvalue for="3" value="31" />
           <attvalue for="4" value="0.0030160888229884275" />
           <attvalue for="5" value="0.008478669850547344" />
+          <attvalue for="6" value="26014" />
         </attvalues>
       </node>
       <node id="Poison (American band)" label="Poison (American band)">
@@ -3001,6 +3300,7 @@
           <attvalue for="3" value="0" />
           <attvalue for="4" value="0.001563226716710088" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="26151" />
         </attvalues>
       </node>
       <node id="Pop Evil" label="Pop Evil">
@@ -3011,6 +3311,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0006731189285589113" />
           <attvalue for="5" value="0.0006082520897985347" />
+          <attvalue for="6" value="13136" />
         </attvalues>
       </node>
       <node id="Primus (band)" label="Primus (band)">
@@ -3021,6 +3322,7 @@
           <attvalue for="3" value="25" />
           <attvalue for="4" value="0.001917744171243187" />
           <attvalue for="5" value="0.003357369018285749" />
+          <attvalue for="6" value="35135" />
         </attvalues>
       </node>
       <node id="Puddle of Mudd" label="Puddle of Mudd">
@@ -3031,6 +3333,7 @@
           <attvalue for="3" value="24" />
           <attvalue for="4" value="0.0008420292998737273" />
           <attvalue for="5" value="0.002050818225068599" />
+          <attvalue for="6" value="18681" />
         </attvalues>
       </node>
       <node id="Queen (band)" label="Queen (band)">
@@ -3041,6 +3344,7 @@
           <attvalue for="3" value="45" />
           <attvalue for="4" value="0.010615778460413585" />
           <attvalue for="5" value="0.03934535101843809" />
+          <attvalue for="6" value="90522" />
         </attvalues>
       </node>
       <node id="Queens of the Stone Age" label="Queens of the Stone Age">
@@ -3051,6 +3355,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.001853744565095715" />
           <attvalue for="5" value="0.004868203213204437" />
+          <attvalue for="6" value="33660" />
         </attvalues>
       </node>
       <node id="Queensrÿche" label="Queensrÿche">
@@ -3061,6 +3366,7 @@
           <attvalue for="3" value="25" />
           <attvalue for="4" value="0.001766829919744626" />
           <attvalue for="5" value="0.0018453949643158225" />
+          <attvalue for="6" value="36490" />
         </attvalues>
       </node>
       <node id="Quiet Riot" label="Quiet Riot">
@@ -3071,6 +3377,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0016461495565735537" />
           <attvalue for="5" value="0.002966750041883003" />
+          <attvalue for="6" value="29597" />
         </attvalues>
       </node>
       <node id="R.E.M." label="R.E.M.">
@@ -3081,6 +3388,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.003459047613641714" />
           <attvalue for="5" value="0.005993743206047141" />
+          <attvalue for="6" value="50215" />
         </attvalues>
       </node>
       <node id="REO Speedwagon" label="REO Speedwagon">
@@ -3091,6 +3399,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0017376432857677251" />
           <attvalue for="5" value="0.0029558486886764254" />
+          <attvalue for="6" value="20460" />
         </attvalues>
       </node>
       <node id="Radiohead" label="Radiohead">
@@ -3101,6 +3410,7 @@
           <attvalue for="3" value="24" />
           <attvalue for="4" value="0.0042466769451534525" />
           <attvalue for="5" value="0.011412694264749607" />
+          <attvalue for="6" value="57796" />
         </attvalues>
       </node>
       <node id="Rage Against the Machine" label="Rage Against the Machine">
@@ -3111,6 +3421,7 @@
           <attvalue for="3" value="24" />
           <attvalue for="4" value="0.003118747271472937" />
           <attvalue for="5" value="0.006032847575712575" />
+          <attvalue for="6" value="36742" />
         </attvalues>
       </node>
       <node id="Rainbow (rock band)" label="Rainbow (rock band)">
@@ -3121,6 +3432,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0015622651436841698" />
           <attvalue for="5" value="0.00042603341635845274" />
+          <attvalue for="6" value="20877" />
         </attvalues>
       </node>
       <node id="Rammstein" label="Rammstein">
@@ -3131,6 +3443,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.00101456945226779" />
           <attvalue for="5" value="0.0003090257216750795" />
+          <attvalue for="6" value="57415" />
         </attvalues>
       </node>
       <node id="Ramones" label="Ramones">
@@ -3141,6 +3454,7 @@
           <attvalue for="3" value="32" />
           <attvalue for="4" value="0.005428970780570221" />
           <attvalue for="5" value="0.01593418989202015" />
+          <attvalue for="6" value="46695" />
         </attvalues>
       </node>
       <node id="Ratt" label="Ratt">
@@ -3151,6 +3465,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0022871200582461858" />
           <attvalue for="5" value="0.0022903732992914953" />
+          <attvalue for="6" value="21707" />
         </attvalues>
       </node>
       <node id="Red Hot Chili Peppers" label="Red Hot Chili Peppers">
@@ -3161,6 +3476,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.005765027277995746" />
           <attvalue for="5" value="0.019620584528309743" />
+          <attvalue for="6" value="51635" />
         </attvalues>
       </node>
       <node id="Ringo Starr" label="Ringo Starr">
@@ -3171,6 +3487,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.006552696773319142" />
           <attvalue for="5" value="0.00466905310375599" />
+          <attvalue for="6" value="60191" />
         </attvalues>
       </node>
       <node id="Rise Against" label="Rise Against">
@@ -3181,6 +3498,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.000755215707864722" />
           <attvalue for="5" value="0.004138359717746967" />
+          <attvalue for="6" value="35079" />
         </attvalues>
       </node>
       <node id="Ritchie Valens" label="Ritchie Valens">
@@ -3191,6 +3509,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0014062333252302566" />
           <attvalue for="5" value="0.00039227227945890495" />
+          <attvalue for="6" value="17166" />
         </attvalues>
       </node>
       <node id="Rob Zombie" label="Rob Zombie">
@@ -3201,6 +3520,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0017288286570957619" />
           <attvalue for="5" value="0.003036707563176395" />
+          <attvalue for="6" value="37050" />
         </attvalues>
       </node>
       <node id="Robert Plant" label="Robert Plant">
@@ -3211,6 +3531,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.004666076977256244" />
           <attvalue for="5" value="0.003266183834631284" />
+          <attvalue for="6" value="41801" />
         </attvalues>
       </node>
       <node id="Rod Stewart" label="Rod Stewart">
@@ -3221,6 +3542,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.004979548970170953" />
           <attvalue for="5" value="0.00813594425299375" />
+          <attvalue for="6" value="58720" />
         </attvalues>
       </node>
       <node id="Roxy Music" label="Roxy Music">
@@ -3231,6 +3553,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.004337272078658035" />
           <attvalue for="5" value="0.008010285327394511" />
+          <attvalue for="6" value="30291" />
         </attvalues>
       </node>
       <node id="Roy Orbison" label="Roy Orbison">
@@ -3241,6 +3564,7 @@
           <attvalue for="3" value="27" />
           <attvalue for="4" value="0.004853380991905312" />
           <attvalue for="5" value="0.004842942585144971" />
+          <attvalue for="6" value="64763" />
         </attvalues>
       </node>
       <node id="Royal Blood (band)" label="Royal Blood (band)">
@@ -3251,6 +3575,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0003785024386237016" />
           <attvalue for="5" value="1.448665399478403e-05" />
+          <attvalue for="6" value="9758" />
         </attvalues>
       </node>
       <node id="Run-DMC" label="Run-DMC">
@@ -3261,6 +3586,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.001310486009252934" />
           <attvalue for="5" value="0.0015490213830483882" />
+          <attvalue for="6" value="31195" />
         </attvalues>
       </node>
       <node id="Rush (band)" label="Rush (band)">
@@ -3271,6 +3597,7 @@
           <attvalue for="3" value="47" />
           <attvalue for="4" value="0.003758172800314832" />
           <attvalue for="5" value="0.014907687834427934" />
+          <attvalue for="6" value="63736" />
         </attvalues>
       </node>
       <node id="Saliva (band)" label="Saliva (band)">
@@ -3281,6 +3608,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.00048612218429356486" />
           <attvalue for="5" value="0.00014042954819935317" />
+          <attvalue for="6" value="15973" />
         </attvalues>
       </node>
       <node id="Sam Fender" label="Sam Fender">
@@ -3291,6 +3619,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.0003785024386237016" />
           <attvalue for="5" value="0.0004744505855441579" />
+          <attvalue for="6" value="37817" />
         </attvalues>
       </node>
       <node id="Santana (band)" label="Santana (band)">
@@ -3301,6 +3630,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0023642911709241023" />
           <attvalue for="5" value="0.001498103231340259" />
+          <attvalue for="6" value="19960" />
         </attvalues>
       </node>
       <node id="Saving Abel" label="Saving Abel">
@@ -3311,6 +3641,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0005305393211488146" />
           <attvalue for="5" value="0.0002819773452971838" />
+          <attvalue for="6" value="6755" />
         </attvalues>
       </node>
       <node id="Scorpions (band)" label="Scorpions (band)">
@@ -3321,6 +3652,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.002481089010877479" />
           <attvalue for="5" value="0.0014626437315322651" />
+          <attvalue for="6" value="32830" />
         </attvalues>
       </node>
       <node id="Seether" label="Seether">
@@ -3331,6 +3663,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0009692443099731087" />
           <attvalue for="5" value="0.0008585594486888228" />
+          <attvalue for="6" value="17423" />
         </attvalues>
       </node>
       <node id="Sepultura" label="Sepultura">
@@ -3341,6 +3674,7 @@
           <attvalue for="3" value="31" />
           <attvalue for="4" value="0.0016536226633528557" />
           <attvalue for="5" value="0.0010634541834591378" />
+          <attvalue for="6" value="31972" />
         </attvalues>
       </node>
       <node id="Sex Pistols" label="Sex Pistols">
@@ -3351,6 +3685,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.00692509899843812" />
           <attvalue for="5" value="0.009675792532753996" />
+          <attvalue for="6" value="51273" />
         </attvalues>
       </node>
       <node id="Shakin' Stevens" label="Shakin' Stevens">
@@ -3361,6 +3696,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="14218" />
         </attvalues>
       </node>
       <node id="Sheryl Crow" label="Sheryl Crow">
@@ -3371,6 +3707,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0031348584642680146" />
           <attvalue for="5" value="0.0036587798741901933" />
+          <attvalue for="6" value="29869" />
         </attvalues>
       </node>
       <node id="Shinedown" label="Shinedown">
@@ -3381,6 +3718,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0013666460799108106" />
           <attvalue for="5" value="0.001914548152507702" />
+          <attvalue for="6" value="23891" />
         </attvalues>
       </node>
       <node id="Silverchair" label="Silverchair">
@@ -3391,6 +3729,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.0006316873405848955" />
           <attvalue for="5" value="0.0007382832069972521" />
+          <attvalue for="6" value="31844" />
         </attvalues>
       </node>
       <node id="Simon &amp; Garfunkel" label="Simon &amp; Garfunkel">
@@ -3401,6 +3740,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0019318555540119848" />
           <attvalue for="5" value="0.0004135791467260719" />
+          <attvalue for="6" value="33155" />
         </attvalues>
       </node>
       <node id="Simple Minds" label="Simple Minds">
@@ -3411,6 +3751,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0016101401044999312" />
           <attvalue for="5" value="0.0026286743788604353" />
+          <attvalue for="6" value="53360" />
         </attvalues>
       </node>
       <node id="Simple Plan" label="Simple Plan">
@@ -3421,6 +3762,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0006546841804203985" />
           <attvalue for="5" value="0.0006202427772677469" />
+          <attvalue for="6" value="22822" />
         </attvalues>
       </node>
       <node id="Sixto Rodriguez" label="Sixto Rodriguez">
@@ -3431,6 +3773,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="15531" />
         </attvalues>
       </node>
       <node id="Skid Row (American band)" label="Skid Row (American band)">
@@ -3441,6 +3784,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0027762117950674396" />
           <attvalue for="5" value="0.002704345697476766" />
+          <attvalue for="6" value="17476" />
         </attvalues>
       </node>
       <node id="Skillet (band)" label="Skillet (band)">
@@ -3451,6 +3795,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0007122253786442149" />
           <attvalue for="5" value="0.0004405280964039541" />
+          <attvalue for="6" value="24325" />
         </attvalues>
       </node>
       <node id="Slade" label="Slade">
@@ -3461,6 +3806,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.002018457335686096" />
           <attvalue for="5" value="0.0063418579638028945" />
+          <attvalue for="6" value="63607" />
         </attvalues>
       </node>
       <node id="Slayer" label="Slayer">
@@ -3471,6 +3817,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.003256907852186264" />
           <attvalue for="5" value="0.004359773703256511" />
+          <attvalue for="6" value="54218" />
         </attvalues>
       </node>
       <node id="Slipknot (band)" label="Slipknot (band)">
@@ -3481,6 +3828,7 @@
           <attvalue for="3" value="30" />
           <attvalue for="4" value="0.002402389447865731" />
           <attvalue for="5" value="0.004047370156393273" />
+          <attvalue for="6" value="47252" />
         </attvalues>
       </node>
       <node id="Sly and the Family Stone" label="Sly and the Family Stone">
@@ -3491,6 +3839,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0015733811407162603" />
           <attvalue for="5" value="0.0021072306494188636" />
+          <attvalue for="6" value="29222" />
         </attvalues>
       </node>
       <node id="Small Faces" label="Small Faces">
@@ -3501,6 +3850,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.001561544853130474" />
           <attvalue for="5" value="0.0005697217206036239" />
+          <attvalue for="6" value="23142" />
         </attvalues>
       </node>
       <node id="Smash Mouth" label="Smash Mouth">
@@ -3511,6 +3861,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0003680802309297809" />
           <attvalue for="5" value="0.0001699754349132428" />
+          <attvalue for="6" value="19229" />
         </attvalues>
       </node>
       <node id="Smokie (band)" label="Smokie (band)">
@@ -3521,6 +3872,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.0005183865908949247" />
           <attvalue for="5" value="9.489734413062314e-05" />
+          <attvalue for="6" value="14239" />
         </attvalues>
       </node>
       <node id="Snow Patrol" label="Snow Patrol">
@@ -3531,6 +3883,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0006761347367841013" />
           <attvalue for="5" value="0.00038604675285824495" />
+          <attvalue for="6" value="19139" />
         </attvalues>
       </node>
       <node id="Social Distortion" label="Social Distortion">
@@ -3541,6 +3894,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0011698013309928402" />
           <attvalue for="5" value="0.004456192578131582" />
+          <attvalue for="6" value="28687" />
         </attvalues>
       </node>
       <node id="Sonic Youth" label="Sonic Youth">
@@ -3551,6 +3905,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.003075405774578695" />
           <attvalue for="5" value="0.0011202467134142802" />
+          <attvalue for="6" value="25130" />
         </attvalues>
       </node>
       <node id="Soundgarden" label="Soundgarden">
@@ -3561,6 +3916,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.004778975262763061" />
           <attvalue for="5" value="0.006544715755288385" />
+          <attvalue for="6" value="47625" />
         </attvalues>
       </node>
       <node id="Staind" label="Staind">
@@ -3571,6 +3927,7 @@
           <attvalue for="3" value="31" />
           <attvalue for="4" value="0.0016143178965714027" />
           <attvalue for="5" value="0.0029056870632813005" />
+          <attvalue for="6" value="17284" />
         </attvalues>
       </node>
       <node id="Starset" label="Starset">
@@ -3581,6 +3938,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.00040570692944769967" />
           <attvalue for="5" value="6.065044290409919e-05" />
+          <attvalue for="6" value="10697" />
         </attvalues>
       </node>
       <node id="Starship (band)" label="Starship (band)">
@@ -3591,6 +3949,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0006899835998115784" />
           <attvalue for="5" value="0.00021321740472698104" />
+          <attvalue for="6" value="11322" />
         </attvalues>
       </node>
       <node id="Status Quo (band)" label="Status Quo (band)">
@@ -3601,6 +3960,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0014672751152776773" />
           <attvalue for="5" value="0.0018424337365103825" />
+          <attvalue for="6" value="31494" />
         </attvalues>
       </node>
       <node id="Steely Dan" label="Steely Dan">
@@ -3611,6 +3971,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0014946317854300701" />
           <attvalue for="5" value="0.0026164522814269156" />
+          <attvalue for="6" value="30325" />
         </attvalues>
       </node>
       <node id="Steppenwolf (band)" label="Steppenwolf (band)">
@@ -3621,6 +3982,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0006809939638140616" />
           <attvalue for="5" value="0.0002431724944615529" />
+          <attvalue for="6" value="13606" />
         </attvalues>
       </node>
       <node id="Steve Miller Band" label="Steve Miller Band">
@@ -3631,6 +3993,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0018890712747163846" />
           <attvalue for="5" value="0.0004274452300857586" />
+          <attvalue for="6" value="9607" />
         </attvalues>
       </node>
       <node id="Steve Vai" label="Steve Vai">
@@ -3641,6 +4004,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0018248225928532728" />
           <attvalue for="5" value="0.001232000103092466" />
+          <attvalue for="6" value="48552" />
         </attvalues>
       </node>
       <node id="Steve Winwood" label="Steve Winwood">
@@ -3651,6 +4015,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.003903836099766318" />
           <attvalue for="5" value="0.002189217992266233" />
+          <attvalue for="6" value="16835" />
         </attvalues>
       </node>
       <node id="Stevie Nicks" label="Stevie Nicks">
@@ -3661,6 +4026,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0034004124501637416" />
           <attvalue for="5" value="0.005143435170341587" />
+          <attvalue for="6" value="51215" />
         </attvalues>
       </node>
       <node id="Stevie Ray Vaughan" label="Stevie Ray Vaughan">
@@ -3671,6 +4037,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.0028378247876290463" />
           <attvalue for="5" value="0.003201381032559368" />
+          <attvalue for="6" value="57088" />
         </attvalues>
       </node>
       <node id="Sting (musician)" label="Sting (musician)">
@@ -3681,6 +4048,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.0039263607740144795" />
           <attvalue for="5" value="0.003029875180120258" />
+          <attvalue for="6" value="42807" />
         </attvalues>
       </node>
       <node id="Stone Sour" label="Stone Sour">
@@ -3691,6 +4059,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0010735387383549186" />
           <attvalue for="5" value="0.0008795815969008956" />
+          <attvalue for="6" value="13724" />
         </attvalues>
       </node>
       <node id="Stone Temple Pilots" label="Stone Temple Pilots">
@@ -3701,6 +4070,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0020218019689915417" />
           <attvalue for="5" value="0.0027579201813385033" />
+          <attvalue for="6" value="25584" />
         </attvalues>
       </node>
       <node id="Styx (band)" label="Styx (band)">
@@ -3711,6 +4081,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0019780187842942196" />
           <attvalue for="5" value="0.0012286683336013816" />
+          <attvalue for="6" value="27050" />
         </attvalues>
       </node>
       <node id="Sublime (band)" label="Sublime (band)">
@@ -3721,6 +4092,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0006741870960043372" />
           <attvalue for="5" value="0.0006810433130596925" />
+          <attvalue for="6" value="22175" />
         </attvalues>
       </node>
       <node id="Sublime with Rome" label="Sublime with Rome">
@@ -3731,6 +4103,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.000462883498501202" />
           <attvalue for="5" value="9.692885602293743e-05" />
+          <attvalue for="6" value="15202" />
         </attvalues>
       </node>
       <node id="Sum 41" label="Sum 41">
@@ -3741,6 +4114,7 @@
           <attvalue for="3" value="32" />
           <attvalue for="4" value="0.0013780786805141685" />
           <attvalue for="5" value="0.008462508344428837" />
+          <attvalue for="6" value="29879" />
         </attvalues>
       </node>
       <node id="Supertramp" label="Supertramp">
@@ -3751,6 +4125,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0010706086710027683" />
           <attvalue for="5" value="0.0011052460871844223" />
+          <attvalue for="6" value="26632" />
         </attvalues>
       </node>
       <node id="Survivor (band)" label="Survivor (band)">
@@ -3761,6 +4136,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0006922891223890942" />
           <attvalue for="5" value="0.00040588552676489015" />
+          <attvalue for="6" value="21528" />
         </attvalues>
       </node>
       <node id="System of a Down" label="System of a Down">
@@ -3771,6 +4147,7 @@
           <attvalue for="3" value="28" />
           <attvalue for="4" value="0.002349911857670357" />
           <attvalue for="5" value="0.004045862621405633" />
+          <attvalue for="6" value="31847" />
         </attvalues>
       </node>
       <node id="T. Rex (band)" label="T. Rex (band)">
@@ -3781,6 +4158,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0028813151136932126" />
           <attvalue for="5" value="0.004564168760023637" />
+          <attvalue for="6" value="25362" />
         </attvalues>
       </node>
       <node id="Talking Heads" label="Talking Heads">
@@ -3791,6 +4169,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.003143716577225018" />
           <attvalue for="5" value="0.009872038648469562" />
+          <attvalue for="6" value="16480" />
         </attvalues>
       </node>
       <node id="Ted Nugent" label="Ted Nugent">
@@ -3801,6 +4180,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.0027532753501636796" />
           <attvalue for="5" value="0.006987766677111064" />
+          <attvalue for="6" value="36959" />
         </attvalues>
       </node>
       <node id="Ten Years After" label="Ten Years After">
@@ -3811,6 +4191,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.000815742266952743" />
           <attvalue for="5" value="0.00013232740631193617" />
+          <attvalue for="6" value="6415" />
         </attvalues>
       </node>
       <node id="Tenacious D" label="Tenacious D">
@@ -3821,6 +4202,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0005710493464709449" />
           <attvalue for="5" value="0.0007901757116734339" />
+          <attvalue for="6" value="37891" />
         </attvalues>
       </node>
       <node id="Tesla (band)" label="Tesla (band)">
@@ -3831,6 +4213,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0009597251711063621" />
           <attvalue for="5" value="0.00023763301631318621" />
+          <attvalue for="6" value="12432" />
         </attvalues>
       </node>
       <node id="The Alan Parsons Project" label="The Alan Parsons Project">
@@ -3841,6 +4224,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.000594817271398955" />
           <attvalue for="5" value="0.0022447277875526353" />
+          <attvalue for="6" value="13963" />
         </attvalues>
       </node>
       <node id="The All-American Rejects" label="The All-American Rejects">
@@ -3851,6 +4235,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0005285875967151699" />
           <attvalue for="5" value="0.00313761984256339" />
+          <attvalue for="6" value="25172" />
         </attvalues>
       </node>
       <node id="The Allman Brothers Band" label="The Allman Brothers Band">
@@ -3861,6 +4246,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0006060835361378556" />
           <attvalue for="5" value="0.0005879409909370195" />
+          <attvalue for="6" value="49337" />
         </attvalues>
       </node>
       <node id="The Animals" label="The Animals">
@@ -3871,6 +4257,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0006899641741158549" />
           <attvalue for="5" value="7.843902188805909e-05" />
+          <attvalue for="6" value="17124" />
         </attvalues>
       </node>
       <node id="The Band" label="The Band">
@@ -3881,6 +4268,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0013239646077228303" />
           <attvalue for="5" value="0.0012881257948415058" />
+          <attvalue for="6" value="39270" />
         </attvalues>
       </node>
       <node id="The Bangles" label="The Bangles">
@@ -3891,6 +4279,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0005496519840265102" />
           <attvalue for="5" value="0.00018317135567872317" />
+          <attvalue for="6" value="12988" />
         </attvalues>
       </node>
       <node id="The Beach Boys" label="The Beach Boys">
@@ -3901,6 +4290,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.0017690118071436146" />
           <attvalue for="5" value="0.005884990308803713" />
+          <attvalue for="6" value="102365" />
         </attvalues>
       </node>
       <node id="The Beatles" label="The Beatles">
@@ -3911,6 +4301,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.009865598709900517" />
           <attvalue for="5" value="0.010356445358759738" />
+          <attvalue for="6" value="98366" />
         </attvalues>
       </node>
       <node id="The Big Bopper" label="The Big Bopper">
@@ -3921,6 +4312,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.001408201921275117" />
           <attvalue for="5" value="7.902042945189474e-05" />
+          <attvalue for="6" value="16171" />
         </attvalues>
       </node>
       <node id="The Black Crowes" label="The Black Crowes">
@@ -3931,6 +4323,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0006261888821003341" />
           <attvalue for="5" value="0.00027957621228273763" />
+          <attvalue for="6" value="20425" />
         </attvalues>
       </node>
       <node id="The Black Keys" label="The Black Keys">
@@ -3941,6 +4334,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.00040480455949080165" />
           <attvalue for="5" value="0.001281860534330152" />
+          <attvalue for="6" value="29323" />
         </attvalues>
       </node>
       <node id="The Boxtones" label="The Boxtones">
@@ -3951,6 +4345,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="2270" />
         </attvalues>
       </node>
       <node id="The Byrds" label="The Byrds">
@@ -3961,6 +4356,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0019748324234512933" />
           <attvalue for="5" value="0.0008300579821696658" />
+          <attvalue for="6" value="82494" />
         </attvalues>
       </node>
       <node id="The Cab" label="The Cab">
@@ -3971,6 +4367,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="12124" />
         </attvalues>
       </node>
       <node id="The Cardigans" label="The Cardigans">
@@ -3981,6 +4378,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.00038529597855798363" />
           <attvalue for="5" value="8.820614861696275e-06" />
+          <attvalue for="6" value="12135" />
         </attvalues>
       </node>
       <node id="The Cars" label="The Cars">
@@ -3991,6 +4389,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0006226812419624574" />
           <attvalue for="5" value="0.0003537914205034788" />
+          <attvalue for="6" value="12186" />
         </attvalues>
       </node>
       <node id="The Clash" label="The Clash">
@@ -4001,6 +4400,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0011725283891177406" />
           <attvalue for="5" value="0.002705920368675587" />
+          <attvalue for="6" value="45621" />
         </attvalues>
       </node>
       <node id="The Cranberries" label="The Cranberries">
@@ -4011,6 +4411,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.00036859283725620187" />
           <attvalue for="5" value="8.390090090024424e-05" />
+          <attvalue for="6" value="33743" />
         </attvalues>
       </node>
       <node id="The Cult" label="The Cult">
@@ -4021,6 +4422,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.000775998913664359" />
           <attvalue for="5" value="0.0007374335187936088" />
+          <attvalue for="6" value="46961" />
         </attvalues>
       </node>
       <node id="The Cure" label="The Cure">
@@ -4031,6 +4433,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0011978119705988986" />
           <attvalue for="5" value="0.0030502008238316235" />
+          <attvalue for="6" value="40905" />
         </attvalues>
       </node>
       <node id="The Dave Clark Five" label="The Dave Clark Five">
@@ -4041,6 +4444,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="10354" />
         </attvalues>
       </node>
       <node id="The Doobie Brothers" label="The Doobie Brothers">
@@ -4051,6 +4455,7 @@
           <attvalue for="3" value="24" />
           <attvalue for="4" value="0.0006220445988849019" />
           <attvalue for="5" value="0.0013069653647208967" />
+          <attvalue for="6" value="42954" />
         </attvalues>
       </node>
       <node id="The Doors" label="The Doors">
@@ -4061,6 +4466,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0017569734992345476" />
           <attvalue for="5" value="0.0030217189498664442" />
+          <attvalue for="6" value="46884" />
         </attvalues>
       </node>
       <node id="The Everly Brothers" label="The Everly Brothers">
@@ -4071,6 +4477,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.002140286477671228" />
           <attvalue for="5" value="0.0009924177832386111" />
+          <attvalue for="6" value="26323" />
         </attvalues>
       </node>
       <node id="The Fixx" label="The Fixx">
@@ -4081,6 +4488,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="6722" />
         </attvalues>
       </node>
       <node id="The Flaming Lips" label="The Flaming Lips">
@@ -4091,6 +4499,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0012820681235445718" />
           <attvalue for="5" value="0.0027636588540563174" />
+          <attvalue for="6" value="34986" />
         </attvalues>
       </node>
       <node id="The Four Seasons (band)" label="The Four Seasons (band)">
@@ -4101,6 +4510,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.0006385062395005611" />
           <attvalue for="5" value="0.00017252019204436948" />
+          <attvalue for="6" value="34780" />
         </attvalues>
       </node>
       <node id="The Fray" label="The Fray">
@@ -4111,6 +4521,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.00042445536158800716" />
           <attvalue for="5" value="0.00024344401699271572" />
+          <attvalue for="6" value="20462" />
         </attvalues>
       </node>
       <node id="The Go-Go's" label="The Go-Go's">
@@ -4121,6 +4532,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.00036637920119547023" />
           <attvalue for="5" value="0.00011035791094647975" />
+          <attvalue for="6" value="15309" />
         </attvalues>
       </node>
       <node id="The Guess Who" label="The Guess Who">
@@ -4131,6 +4543,7 @@
           <attvalue for="3" value="2" />
           <attvalue for="4" value="0.00041778712813486695" />
           <attvalue for="5" value="1.758094459212899e-05" />
+          <attvalue for="6" value="21227" />
         </attvalues>
       </node>
       <node id="The Hives" label="The Hives">
@@ -4141,6 +4554,7 @@
           <attvalue for="3" value="3" />
           <attvalue for="4" value="0.00035369819415301647" />
           <attvalue for="5" value="5.8048296838290856e-05" />
+          <attvalue for="6" value="15972" />
         </attvalues>
       </node>
       <node id="The Hollies" label="The Hollies">
@@ -4151,6 +4565,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.000656953289669332" />
           <attvalue for="5" value="0.000442888516454868" />
+          <attvalue for="6" value="27597" />
         </attvalues>
       </node>
       <node id="The J. Geils Band" label="The J. Geils Band">
@@ -4161,6 +4576,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="17470" />
         </attvalues>
       </node>
       <node id="The Jam" label="The Jam">
@@ -4171,6 +4587,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.00042006772386842927" />
           <attvalue for="5" value="3.486633309762518e-05" />
+          <attvalue for="6" value="20354" />
         </attvalues>
       </node>
       <node id="The Jesus and Mary Chain" label="The Jesus and Mary Chain">
@@ -4181,6 +4598,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.00045851352582316536" />
           <attvalue for="5" value="0.0003314721840661753" />
+          <attvalue for="6" value="30189" />
         </attvalues>
       </node>
       <node id="The Killers" label="The Killers">
@@ -4191,6 +4609,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.0009133780391604451" />
           <attvalue for="5" value="0.0006575242487550276" />
+          <attvalue for="6" value="37989" />
         </attvalues>
       </node>
       <node id="The Kinks" label="The Kinks">
@@ -4201,6 +4620,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0013062022827692605" />
           <attvalue for="5" value="0.0018365084339556647" />
+          <attvalue for="6" value="58681" />
         </attvalues>
       </node>
       <node id="The Lovin' Spoonful" label="The Lovin' Spoonful">
@@ -4211,6 +4631,7 @@
           <attvalue for="3" value="13" />
           <attvalue for="4" value="0.0007130726606137584" />
           <attvalue for="5" value="0.00023579309079909164" />
+          <attvalue for="6" value="63743" />
         </attvalues>
       </node>
       <node id="The Lumineers" label="The Lumineers">
@@ -4221,6 +4642,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.0004960795592157832" />
           <attvalue for="5" value="0.0006786899190770067" />
+          <attvalue for="6" value="22791" />
         </attvalues>
       </node>
       <node id="The Mamas &amp; the Papas" label="The Mamas &amp; the Papas">
@@ -4231,6 +4653,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0005553982610491711" />
           <attvalue for="5" value="7.928443807832715e-05" />
+          <attvalue for="6" value="30170" />
         </attvalues>
       </node>
       <node id="The Marshall Tucker Band" label="The Marshall Tucker Band">
@@ -4241,6 +4664,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0005372378975534841" />
           <attvalue for="5" value="0.00022688770038684205" />
+          <attvalue for="6" value="14752" />
         </attvalues>
       </node>
       <node id="The Monkees" label="The Monkees">
@@ -4251,6 +4675,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0016009656289788067" />
           <attvalue for="5" value="0.00025167496924400604" />
+          <attvalue for="6" value="52918" />
         </attvalues>
       </node>
       <node id="The Moody Blues" label="The Moody Blues">
@@ -4261,6 +4686,7 @@
           <attvalue for="3" value="16" />
           <attvalue for="4" value="0.001076041539880005" />
           <attvalue for="5" value="0.0010024051052592044" />
+          <attvalue for="6" value="53589" />
         </attvalues>
       </node>
       <node id="The Mothers of Invention" label="The Mothers of Invention">
@@ -4271,6 +4697,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0006922821074030733" />
           <attvalue for="5" value="0.0001998345083249616" />
+          <attvalue for="6" value="18456" />
         </attvalues>
       </node>
       <node id="The Offspring" label="The Offspring">
@@ -4281,6 +4708,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.001224536291792296" />
           <attvalue for="5" value="0.004000534023157358" />
+          <attvalue for="6" value="33574" />
         </attvalues>
       </node>
       <node id="The Outfield" label="The Outfield">
@@ -4291,6 +4719,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0004619975964151829" />
           <attvalue for="5" value="6.340225675899303e-05" />
+          <attvalue for="6" value="12738" />
         </attvalues>
       </node>
       <node id="The Police" label="The Police">
@@ -4301,6 +4730,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0008859371348645704" />
           <attvalue for="5" value="0.0011348505150469092" />
+          <attvalue for="6" value="32805" />
         </attvalues>
       </node>
       <node id="The Presidents of the United States of America (band)" label="The Presidents of the United States of America (band)">
@@ -4311,6 +4741,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="10988" />
         </attvalues>
       </node>
       <node id="The Pretenders" label="The Pretenders">
@@ -4321,6 +4752,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0008175782180791203" />
           <attvalue for="5" value="0.000400915531850804" />
+          <attvalue for="6" value="14012" />
         </attvalues>
       </node>
       <node id="The Pretty Reckless" label="The Pretty Reckless">
@@ -4331,6 +4763,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.000414000110455388" />
           <attvalue for="5" value="0.00032801859714235327" />
+          <attvalue for="6" value="16048" />
         </attvalues>
       </node>
       <node id="The Rolling Stones" label="The Rolling Stones">
@@ -4341,6 +4774,7 @@
           <attvalue for="3" value="28" />
           <attvalue for="4" value="0.006213809384763471" />
           <attvalue for="5" value="0.016412475104169055" />
+          <attvalue for="6" value="92142" />
         </attvalues>
       </node>
       <node id="The Script" label="The Script">
@@ -4351,6 +4785,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.00034886398154854463" />
           <attvalue for="5" value="3.2249158733452586e-05" />
+          <attvalue for="6" value="17697" />
         </attvalues>
       </node>
       <node id="The Smashing Pumpkins" label="The Smashing Pumpkins">
@@ -4361,6 +4796,7 @@
           <attvalue for="3" value="44" />
           <attvalue for="4" value="0.0013332031352380064" />
           <attvalue for="5" value="0.005741620662556098" />
+          <attvalue for="6" value="49452" />
         </attvalues>
       </node>
       <node id="The Smiths" label="The Smiths">
@@ -4371,6 +4807,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.0005647416994306277" />
           <attvalue for="5" value="0.0009825736129816277" />
+          <attvalue for="6" value="43667" />
         </attvalues>
       </node>
       <node id="The Stone Roses" label="The Stone Roses">
@@ -4381,6 +4818,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="29592" />
         </attvalues>
       </node>
       <node id="The Strokes" label="The Strokes">
@@ -4391,6 +4829,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0007981607326819137" />
           <attvalue for="5" value="0.0012002943632551087" />
+          <attvalue for="6" value="28679" />
         </attvalues>
       </node>
       <node id="The Sweet" label="The Sweet">
@@ -4401,6 +4840,7 @@
           <attvalue for="3" value="25" />
           <attvalue for="4" value="0.0008449552111125302" />
           <attvalue for="5" value="0.0028202083054064534" />
+          <attvalue for="6" value="46775" />
         </attvalues>
       </node>
       <node id="The Tragically Hip" label="The Tragically Hip">
@@ -4411,6 +4851,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0004932450580001811" />
           <attvalue for="5" value="0.0007751931812790403" />
+          <attvalue for="6" value="29215" />
         </attvalues>
       </node>
       <node id="The Used" label="The Used">
@@ -4421,6 +4862,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.0004970609852889795" />
           <attvalue for="5" value="0.00037857914673539985" />
+          <attvalue for="6" value="19878" />
         </attvalues>
       </node>
       <node id="The Velvet Underground" label="The Velvet Underground">
@@ -4431,6 +4873,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0020411051660049165" />
           <attvalue for="5" value="0.0011772138574719108" />
+          <attvalue for="6" value="44845" />
         </attvalues>
       </node>
       <node id="The Verve" label="The Verve">
@@ -4441,6 +4884,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0005294122362038474" />
           <attvalue for="5" value="0.00012123152143639494" />
+          <attvalue for="6" value="18181" />
         </attvalues>
       </node>
       <node id="The White Stripes" label="The White Stripes">
@@ -4451,6 +4895,7 @@
           <attvalue for="3" value="10" />
           <attvalue for="4" value="0.0005126377022686829" />
           <attvalue for="5" value="0.00020470805227028243" />
+          <attvalue for="6" value="50845" />
         </attvalues>
       </node>
       <node id="The Who" label="The Who">
@@ -4461,6 +4906,7 @@
           <attvalue for="3" value="34" />
           <attvalue for="4" value="0.0026290636720647602" />
           <attvalue for="5" value="0.010647885677664655" />
+          <attvalue for="6" value="72420" />
         </attvalues>
       </node>
       <node id="The Yardbirds" label="The Yardbirds">
@@ -4471,6 +4917,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.001538821136178399" />
           <attvalue for="5" value="0.0011311060288285947" />
+          <attvalue for="6" value="31442" />
         </attvalues>
       </node>
       <node id="The Zombies" label="The Zombies">
@@ -4481,6 +4928,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0004135592236420187" />
           <attvalue for="5" value="2.2731367850392338e-05" />
+          <attvalue for="6" value="22023" />
         </attvalues>
       </node>
       <node id="Theory of a Deadman" label="Theory of a Deadman">
@@ -4491,6 +4939,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.001084738838247648" />
           <attvalue for="5" value="0.0018562496806145401" />
+          <attvalue for="6" value="9977" />
         </attvalues>
       </node>
       <node id="Thin Lizzy" label="Thin Lizzy">
@@ -4501,6 +4950,7 @@
           <attvalue for="3" value="36" />
           <attvalue for="4" value="0.0033567681080734616" />
           <attvalue for="5" value="0.012204395429695964" />
+          <attvalue for="6" value="48207" />
         </attvalues>
       </node>
       <node id="Third Eye Blind" label="Third Eye Blind">
@@ -4511,6 +4961,7 @@
           <attvalue for="3" value="11" />
           <attvalue for="4" value="0.0006957696748835379" />
           <attvalue for="5" value="0.002665630174093002" />
+          <attvalue for="6" value="33022" />
         </attvalues>
       </node>
       <node id="Thirty Seconds to Mars" label="Thirty Seconds to Mars">
@@ -4521,6 +4972,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0007044500024743874" />
           <attvalue for="5" value="0.0012708575396546025" />
+          <attvalue for="6" value="25238" />
         </attvalues>
       </node>
       <node id="Thousand Foot Krutch" label="Thousand Foot Krutch">
@@ -4531,6 +4983,7 @@
           <attvalue for="3" value="9" />
           <attvalue for="4" value="0.00046895170478673386" />
           <attvalue for="5" value="0.0001611747173317753" />
+          <attvalue for="6" value="13805" />
         </attvalues>
       </node>
       <node id="Three Days Grace" label="Three Days Grace">
@@ -4541,6 +4994,7 @@
           <attvalue for="3" value="23" />
           <attvalue for="4" value="0.0011907008837288855" />
           <attvalue for="5" value="0.0030051325698012927" />
+          <attvalue for="6" value="34453" />
         </attvalues>
       </node>
       <node id="Three Dog Night" label="Three Dog Night">
@@ -4551,6 +5005,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.0010687727166965384" />
           <attvalue for="5" value="0.001304827519168792" />
+          <attvalue for="6" value="13686" />
         </attvalues>
       </node>
       <node id="Tom Petty" label="Tom Petty">
@@ -4561,6 +5016,7 @@
           <attvalue for="3" value="22" />
           <attvalue for="4" value="0.004796465866868373" />
           <attvalue for="5" value="0.007528606427448811" />
+          <attvalue for="6" value="28243" />
         </attvalues>
       </node>
       <node id="Tom Petty and the Heartbreakers" label="Tom Petty and the Heartbreakers">
@@ -4571,6 +5027,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.003230674477836661" />
           <attvalue for="5" value="0.005387395436254897" />
+          <attvalue for="6" value="22223" />
         </attvalues>
       </node>
       <node id="Tommy James and the Shondells" label="Tommy James and the Shondells">
@@ -4581,6 +5038,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.00042252262754191626" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="9976" />
         </attvalues>
       </node>
       <node id="Tool (band)" label="Tool (band)">
@@ -4591,6 +5049,7 @@
           <attvalue for="3" value="26" />
           <attvalue for="4" value="0.0022217888362591563" />
           <attvalue for="5" value="0.004136974246156063" />
+          <attvalue for="6" value="35399" />
         </attvalues>
       </node>
       <node id="Toto (band)" label="Toto (band)">
@@ -4601,6 +5060,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.0017972602097822972" />
           <attvalue for="5" value="0.004846993103011542" />
+          <attvalue for="6" value="36705" />
         </attvalues>
       </node>
       <node id="Tracy Chapman" label="Tracy Chapman">
@@ -4611,6 +5071,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.0003716955210104903" />
           <attvalue for="5" value="2.364196272038086e-05" />
+          <attvalue for="6" value="11452" />
         </attvalues>
       </node>
       <node id="Traffic (band)" label="Traffic (band)">
@@ -4621,6 +5082,7 @@
           <attvalue for="3" value="6" />
           <attvalue for="4" value="0.0019455849812553003" />
           <attvalue for="5" value="0.0011836427351353625" />
+          <attvalue for="6" value="13260" />
         </attvalues>
       </node>
       <node id="Train (band)" label="Train (band)">
@@ -4631,6 +5093,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0007320248193736414" />
           <attvalue for="5" value="0.004763471170274412" />
+          <attvalue for="6" value="26492" />
         </attvalues>
       </node>
       <node id="Traveling Wilburys" label="Traveling Wilburys">
@@ -4641,6 +5104,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0016905576478171455" />
           <attvalue for="5" value="0.00023023997741142627" />
+          <attvalue for="6" value="23307" />
         </attvalues>
       </node>
       <node id="Travis (band)" label="Travis (band)">
@@ -4651,6 +5115,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0006051437859535924" />
           <attvalue for="5" value="0.00011951398869750923" />
+          <attvalue for="6" value="20770" />
         </attvalues>
       </node>
       <node id="Trivium (band)" label="Trivium (band)">
@@ -4661,6 +5126,7 @@
           <attvalue for="3" value="30" />
           <attvalue for="4" value="0.0014084574759459841" />
           <attvalue for="5" value="0.0031932119523560543" />
+          <attvalue for="6" value="29424" />
         </attvalues>
       </node>
       <node id="Twenty One Pilots" label="Twenty One Pilots">
@@ -4671,6 +5137,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0004224770693627364" />
           <attvalue for="5" value="0.000130489457810443" />
+          <attvalue for="6" value="38756" />
         </attvalues>
       </node>
       <node id="Twisted Sister" label="Twisted Sister">
@@ -4681,6 +5148,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0009379218666862935" />
           <attvalue for="5" value="0.000573988938754766" />
+          <attvalue for="6" value="26592" />
         </attvalues>
       </node>
       <node id="U2" label="U2">
@@ -4691,6 +5159,7 @@
           <attvalue for="3" value="14" />
           <attvalue for="4" value="0.008508445790372425" />
           <attvalue for="5" value="0.008870712972530581" />
+          <attvalue for="6" value="87872" />
         </attvalues>
       </node>
       <node id="UB40" label="UB40">
@@ -4701,6 +5170,7 @@
           <attvalue for="3" value="5" />
           <attvalue for="4" value="0.0003142980774210813" />
           <attvalue for="5" value="0.0" />
+          <attvalue for="6" value="22273" />
         </attvalues>
       </node>
       <node id="Uriah Heep (band)" label="Uriah Heep (band)">
@@ -4711,6 +5181,7 @@
           <attvalue for="3" value="19" />
           <attvalue for="4" value="0.0017773305385563177" />
           <attvalue for="5" value="0.0028785106243326415" />
+          <attvalue for="6" value="38842" />
         </attvalues>
       </node>
       <node id="Vampire Weekend" label="Vampire Weekend">
@@ -4721,6 +5192,7 @@
           <attvalue for="3" value="7" />
           <attvalue for="4" value="0.0005010399791417091" />
           <attvalue for="5" value="0.0013891813220389382" />
+          <attvalue for="6" value="23764" />
         </attvalues>
       </node>
       <node id="Van Halen" label="Van Halen">
@@ -4731,6 +5203,7 @@
           <attvalue for="3" value="20" />
           <attvalue for="4" value="0.0053896354144248315" />
           <attvalue for="5" value="0.011806352357166606" />
+          <attvalue for="6" value="50730" />
         </attvalues>
       </node>
       <node id="Van Morrison" label="Van Morrison">
@@ -4741,6 +5214,7 @@
           <attvalue for="3" value="17" />
           <attvalue for="4" value="0.003946109209611037" />
           <attvalue for="5" value="0.004381766817667253" />
+          <attvalue for="6" value="78166" />
         </attvalues>
       </node>
       <node id="Velvet Revolver" label="Velvet Revolver">
@@ -4751,6 +5225,7 @@
           <attvalue for="3" value="21" />
           <attvalue for="4" value="0.0013358876014153156" />
           <attvalue for="5" value="0.0019752110543105037" />
+          <attvalue for="6" value="21541" />
         </attvalues>
       </node>
       <node id="Volbeat" label="Volbeat">
@@ -4761,6 +5236,7 @@
           <attvalue for="3" value="18" />
           <attvalue for="4" value="0.0010257253422475655" />
           <attvalue for="5" value="0.0007685263028273986" />
+          <attvalue for="6" value="10919" />
         </attvalues>
       </node>
       <node id="W.A.S.P. (band)" label="W.A.S.P. (band)">
@@ -4771,6 +5247,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0014306061824368404" />
           <attvalue for="5" value="0.001189311890845692" />
+          <attvalue for="6" value="19147" />
         </attvalues>
       </node>
       <node id="Warrant (American band)" label="Warrant (American band)">
@@ -4781,6 +5258,7 @@
           <attvalue for="3" value="12" />
           <attvalue for="4" value="0.0007762804408614922" />
           <attvalue for="5" value="0.00038719095346523703" />
+          <attvalue for="6" value="18176" />
         </attvalues>
       </node>
       <node id="Weezer" label="Weezer">
@@ -4791,6 +5269,7 @@
           <attvalue for="3" value="27" />
           <attvalue for="4" value="0.00240094380640017" />
           <attvalue for="5" value="0.011726908916377071" />
+          <attvalue for="6" value="51355" />
         </attvalues>
       </node>
       <node id="White Zombie (band)" label="White Zombie (band)">
@@ -4801,6 +5280,7 @@
           <attvalue for="3" value="15" />
           <attvalue for="4" value="0.001370321946377003" />
           <attvalue for="5" value="0.000996410131963891" />
+          <attvalue for="6" value="14432" />
         </attvalues>
       </node>
       <node id="Whitesnake" label="Whitesnake">
@@ -4811,6 +5291,7 @@
           <attvalue for="3" value="31" />
           <attvalue for="4" value="0.0024877518314756764" />
           <attvalue for="5" value="0.008228559008662453" />
+          <attvalue for="6" value="63364" />
         </attvalues>
       </node>
       <node id="X (American band)" label="X (American band)">
@@ -4821,6 +5302,7 @@
           <attvalue for="3" value="1" />
           <attvalue for="4" value="0.0006814717638468555" />
           <attvalue for="5" value="1.0273181938152628e-05" />
+          <attvalue for="6" value="13867" />
         </attvalues>
       </node>
       <node id="X Ambassadors" label="X Ambassadors">
@@ -4831,6 +5313,7 @@
           <attvalue for="3" value="4" />
           <attvalue for="4" value="0.00034699734578080014" />
           <attvalue for="5" value="3.491923126514924e-05" />
+          <attvalue for="6" value="11808" />
         </attvalues>
       </node>
       <node id="Yes (band)" label="Yes (band)">
@@ -4841,6 +5324,7 @@
           <attvalue for="3" value="25" />
           <attvalue for="4" value="0.0042325090871294735" />
           <attvalue for="5" value="0.00990289552302772" />
+          <attvalue for="6" value="61910" />
         </attvalues>
       </node>
       <node id="ZZ Top" label="ZZ Top">
@@ -4851,6 +5335,7 @@
           <attvalue for="3" value="8" />
           <attvalue for="4" value="0.0022390582651289955" />
           <attvalue for="5" value="0.002056066851889258" />
+          <attvalue for="6" value="24057" />
         </attvalues>
       </node>
     </nodes>
